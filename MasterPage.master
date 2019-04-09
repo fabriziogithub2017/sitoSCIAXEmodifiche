@@ -157,10 +157,10 @@
                     <div class="col col-md-3 col-sm-4 col-xs-6">
                         <h3>Sito</h3>
                         <ul class="list-group">
-                            <li><a href="chi-siamo-sciaxe.html">Chi siamo</a></li>
-                            <li><a href="dove-siamo-sciaxe.html">Dove siamo</a></li>
+                            <li><a href="chi-siamo-sciaxe.aspx">Chi siamo</a></li>
+                            <li><a href="dove-siamo-sciaxe.aspx">Dove siamo</a></li>
                             <li><a href="contatti-sciaxe.aspx">Contatti</a></li>
-                            <li><a href="Informativa-Policy.html">Info privacy & cookie </a></li>
+                            <li><a href="Informativa-Policy.aspx">Info privacy & cookie </a></li>
                             <li><a href="Faq-Domande-frequenti.aspx">Faq-Domande-frequenti</a></li>
                         </ul>
                     </div>
