@@ -1,10 +1,52 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Faq-Domande-frequenti.aspx.cs" Inherits="Faq_Domande_frequenti" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
     <title>Faq e domande frequenti - Sciax'è....siiiiii!!!!!</title>
     <meta name="description" content="Faq e domande frequenti per informazioni o acquisto presso la sciax'è snc">
+    <!-- CSS personalizzato-->
+    <link href="css/Faq-domande.css" rel="stylesheet" />
 </asp:Content>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+     <!-- Breadcrumb e schema org Web page -->
+        <ol class="breadcrumb">
+            <li><a href="../index.html">Home</a></li>
+            <li class="active"><b>Faq</b></li>
+        </ol>
+        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "WebPage",
+            "breadcrumb": "Home > Faq",
+            "image":"../logo-sciaxe.png",
+            "name": "logo aziendale sciax'è snc"
+            }
+        </script>
+
+        <!-- Schema.org Organization -->
+        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url":"http://www.sciaxe.it/",
+            "logo": "http://www.sciaxe.it/jmg/logo-sciaxe.png",
+            "contactPoint": [{
+            "@type": "ContactPoint",
+            "telephone": "+39 0113975398",
+            "contactType": "customer service"
+            }],
+            "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Grugliasco",
+            "addressRegion": "To",
+            "streetAddress": "Strada del Potrone 10",
+            "postalCode":"10095"
+            },
+            "description": "Serigrafia e ricamo su abbigliamento aziendale.Penne e gadget personalizzati.Produzione di timbri.",
+            "name": "Sciax'è snc",
+            "telephone": "+39 0113975398"
+            }
+        </script>
     <div class="container">
         <div class="container1">
             <div class="row">
@@ -121,4 +163,5 @@
         </div>
     </div>
 </asp:Content>
+
 

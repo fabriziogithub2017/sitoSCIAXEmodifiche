@@ -21,8 +21,9 @@
     <link href="css/bootstrap.css" rel="stylesheet" />
 
     <!-- CSS personalizzato-->
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/Faq-domande.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet">   
+    <link href="css/Informativa-Policy.css" rel="stylesheet" />
+    <link href="css/styleBreadcrumb.css" rel="stylesheet" />
 
     <!--banner Consenso dei Cookies-->
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
@@ -79,46 +80,7 @@
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
         </nav>
-        <!-- Breadcrumb e schema org Web page -->
-        <ol class="breadcrumb">
-            <li><a href="../index.html">Home</a></li>
-            <li class="active"><b>Faq</b></li>
-        </ol>
-        <script type="application/ld+json">
-            {
-            "@context": "http://schema.org",
-            "@type": "WebPage",
-            "breadcrumb": "Home > Faq",
-            "image":"../logo-sciaxe.png",
-            "name": "logo aziendale sciax'è snc"
-            }
-        </script>
-
-        <!-- Schema.org Organization -->
-        <script type="application/ld+json">
-            {
-            "@context": "http://schema.org",
-            "@type": "Organization",
-            "url":"http://www.sciaxe.it/",
-            "logo": "http://www.sciaxe.it/jmg/logo-sciaxe.png",
-            "contactPoint": [{
-            "@type": "ContactPoint",
-            "telephone": "+39 0113975398",
-            "contactType": "customer service"
-            }],
-            "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Grugliasco",
-            "addressRegion": "To",
-            "streetAddress": "Strada del Potrone 10",
-            "postalCode":"10095"
-            },
-            "description": "Serigrafia e ricamo su abbigliamento aziendale.Penne e gadget personalizzati.Produzione di timbri.",
-            "name": "Sciax'è snc",
-            "telephone": "+39 0113975398"
-            }
-        </script>
-
+       
         <!-- script banner consenso cookie -->
         <script>
             window.addEventListener("load", function () {
@@ -185,7 +147,7 @@
                             <li><a href="Categorie/Timbri-datari.html">Timbri</a></li>
                         </ul>
                         <div class="provaFooter">
-                            <p>Copyright © 2010 - 2018</p>
+                            <p>Copyright © 2010 - 2019</p>
                         </div>
                         <div class="provaFooter">
                             <p>Sciax'è snc - P.iva 06334480016</p>
@@ -199,6 +161,7 @@
                             <li><a href="dove-siamo-sciaxe.html">Dove siamo</a></li>
                             <li><a href="contatti-sciaxe.aspx">Contatti</a></li>
                             <li><a href="Informativa-Policy.html">Info privacy & cookie </a></li>
+                            <li><a href="Faq-Domande-frequenti.aspx">Faq-Domande-frequenti</a></li>
                         </ul>
                     </div>
                     <div class="col col-md-3 col-sm-4 col-xs-12">
