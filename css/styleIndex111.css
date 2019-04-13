@@ -124,6 +124,8 @@ body {
         color: #333;
     }
 
+
+
 footer {
     margin: 50px 0;
     background-color: white;
@@ -233,6 +235,30 @@ h2:hover {
     height: 60px;
 }
 
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3,   .col-lg-3,   .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6,   .col-sm-6, .col-md-6,   .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12  {
+    /* padding-right:15px; */
+    padding-right: 0px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.col-lg-1 {
+    display: block;
+    /*position: absolute;*/
+    /*top: 19px;*/
+    /*right: 319px;*/
+    width: 75px;
+    height: 1865px;
+    background-color: white;
+}
+
+
+@media screen and (max-width: 1200px) {
+        .col-lg-1 {
+        display: none;
+    }
+}
+
 @media screen and (max-width: 992px) {
 
     .phone-number {
@@ -244,6 +270,10 @@ h2:hover {
         right: 319px;
         width: 183px;
         height: 42px;
+    }
+    /*mettere a tutti i media per far nascondere il menù laterle*/
+    .col-lg-1 {
+        display: none;
     }
 }
 
@@ -279,7 +309,11 @@ h2:hover {
         width: 193px;
         height: 42px
     }
+    .col-lg-1 {
+        display: none;
+    }
 }
+
 
 @media screen and (max-width: 630px),(max-width: 769px) /*and (max-width: 699px) and (min-width: 520px)*/
 {
@@ -288,6 +322,9 @@ h2:hover {
         right: 274px;
         width: 193px;
         height: 42px
+    }
+    .col-lg-1 {
+        display: none;
     }
 }
 
@@ -302,26 +339,37 @@ h2:hover {
         width: 183px;
         height: 42px
     }
+    .col-lg-1 {
+        display: none;
+    }
 }
 
-#centerslogan {
-    background-color: #000000;
-    float: left;
-    width: 50%;
-    height: 100%;
+@media(min-width: 1200px) {
+    .col-lg-3 {
+        width: 23%;
+    }
 }
 
-.titolo {
-    font-size: larger;
-}
 
-.shadow {
-    font-size: small;
-    color: white;
-    text-shadow: 1px 1px 1px rgb(0, 0, 0);
-}
 
-.shadow1 {
-    color: white;
-    text-shadow: 1px 1px 1px rgb(0, 0, 0);
-}
+    #centerslogan {
+        background-color: #000000;
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+
+    .titolo {
+        font-size: larger;
+    }
+
+    .shadow {
+        font-size: small;
+        color: white;
+        text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    }
+
+    .shadow1 {
+        color: white;
+        text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    }
