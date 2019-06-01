@@ -4,30 +4,38 @@
 
 <html>
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <asp:ContentPlaceHolder id="head" runat="server">
-
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
     <link rel="icon" type="image/png" href="jmg/favicon.png">
+    <meta name=”robots” content=”index,follow”>
+    <meta name="google-site-verification" content="ugFY8TfZUPQ4jAyqYJmv3N5L7CzLyFizpHAzbabunVQ" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">   
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Fabrizio Sciascia. Sciax'è snc.Torino">
     <meta name="copyright" content="Sciax'è">
     <meta http-equiv="content-language" content="IT">
     <meta name="creation_Date" content="02/09/2013">
     <meta name="revisit-after" content="7 days">
 
+    <!--Main scripts-->
+    <script src="app/view/assets/lib/angular/angular.min.js"></script>
+
+    <!--Controllers-->
+    <script src="app/controller/indexController.js"></script>
+
     <!-- Bootstrap CSS -->
     <link href="css/bootstrap.css" rel="stylesheet" />
 
     <!-- CSS personalizzato-->
-    <link href="css/style.css" rel="stylesheet">   
+    <!--<link href="css/style.css" rel="stylesheet">-->
+    <link href="css/styleIndex111.css" rel="stylesheet" />
     <link href="css/Informativa-Policy.css" rel="stylesheet" />
     <link href="css/styleBreadcrumb.css" rel="stylesheet" />
 
     <!--banner Consenso dei Cookies-->
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
-
+   
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124435084-1"></script>
     <script>
@@ -36,78 +44,62 @@
         gtag('js', new Date());
         gtag('config', 'UA-124435084-1');
     </script>
-    
 </head>
-<body>
-     <header>
-        <!-- Navigation -->
-        <nav class="navbar navbar-inverse navbar-static-top">
-            <div class="container">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <div class="logo">
-                        <img src="jmg/marchio-sciaxe.png" alt="sciax'è snc" />
-                        <h2 class="navbar-text ">grafica sciax'è</h2>
-                        <div class="phone-number" alt="Telefono 0113975398"></div>
-                    </div>
-                </div>
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li><a href="index.html">Index</a></li>
-                        <!--<li><a href="http://www.calendaritorino.it/" target="_blank">shopping</a></li>-->
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Prodotti <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../Categorie/Abbigliamento-da-lavoro.html">Abbigliamento</a></li>
-                                <li><a href="../Categorie/Agende-2019-personalizzate.html">Agende</a></li>
-                                <li><a href="../Categorie/Borse-Zaini-personalizzati.html">Borse e zaini</a></li>
-                                <li><a href="../Categorie/Calendari-2019-personalizzati.html">Calendari</a></li>
-                                <li><a href="../Categorie/Penne-personalizzate.html">Penne</a></li>
-                                <li><a href="../Categorie/Gadget-personalizzati.html">Gadget</a></li>
-                                <li><a href="../Categorie/Shopper-personalizzati.html">Shopper</a></li>
-                                <li><a href="../Categorie/Block-Notes-personalizzati-a-colori.html">Block notes</a></li>
-                                <li><a href="../Categorie/Timbri-datari.html">Timbri</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div><!-- /.navbar-collapse -->
-            </div><!-- /.container-fluid -->
-        </nav>
-       
+
+<body >
+     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+     </asp:ContentPlaceHolder> 
+
+    <!-- header -->
+    <header>    
         <!-- script banner consenso cookie -->
-        <script>
-            window.addEventListener("load", function () {
-                window.cookieconsent.initialise({
-                    "palette": {
-                        "popup": {
-                            "background": "#e60000"
-                        },
-                        "button": {
-                            "background": "#fff",
-                            "text": "#e60000"
-                        }
-                    },
-                    "content": {
-                        "message": "Questo sito utilizza i cookie per darti una migliore navigazione sul sito. Continuando a navigare o selezionando il tasto ACCETTA, acconsenti l'utilizzo dei cookie.Se vuoi saperne di più consulta la cookie policy.",
-                        "dismiss": "ACCETTA",
-                        "link": "leggi la policy",
-                        "href": "/Informativa-Policy.html"
-                    }
-                })
-            });
-        </script>
-    </header>
-    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
-        
-        </asp:ContentPlaceHolder>
-    
+    <script src="js/Barra_Policy.js"></script>
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+                <div class="container">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <div class="logo">
+                            <img src="jmg/marchio-sciaxe.png" alt="sciax'è snc" />
+                            <h2 class="navbar-text ">grafica sciax'è</h2>
+                            <div class="phone-number" alt="Telefono 0113975398"></div>
+                        </div>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right">
+                            <!--<li><a href="http://www.calendaritorino.it/" target="_blank">shopping</a></li>-->
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Prodotti <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="../Categorie/Abbigliamento-da-lavoro.html">Abbigliamento</a></li>
+                                    <li><a href="../Categorie/Agende-2019-personalizzate.html">Agende</a></li>
+                                    <li><a href="../Categorie/Borse-Zaini-personalizzati.html">Borse e zaini</a></li>
+                                    <li><a href="../Categorie/Calendari-2019-personalizzati.html">Calendari</a></li>
+                                    <li><a href="../Categorie/Penne-personalizzate.html">Penne</a></li>
+                                    <li><a href="../Categorie/Braccialetti-personalizzati.html">Braccialetti</a></li>
+                                    <li><a href="../Categorie/Shopper-personalizzati.html">Shopper</a></li>
+                                    <li><a href="../Categorie/Block-Notes-personalizzati-a-colori.html">Block notes</a></li>
+                                    <li><a href="../Categorie/Timbri-datari.html">Timbri</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container-fluid -->
+            </nav>
+    </header>    
+   
+    <!-- Footer -->
     <div class="container">
         <!-- Footer -->
         <footer>
@@ -162,7 +154,6 @@
                             <li><a href="contatti-sciaxe.aspx">Contatti</a></li>
                             <li><a href="Informativa-Policy.aspx">Info privacy & cookie </a></li>
                             <li><a href="Faq-Domande-frequenti.aspx">Faq-Domande-frequenti</a></li>
-                            <li><a href="Prova.aspx">Prova pagina</a></li>
                         </ul>
                     </div>
                     <div class="col col-md-3 col-sm-4 col-xs-12">
@@ -180,16 +171,14 @@
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
-    <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+
+    <!--javascript testo scorrevole sull 'index centrale -->
+    <script src="js/testoscorrevole.js"></script>
 
     <!--javascript Consenso dei Cookies-->
     <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 
-    <form id="form1" runat="server">
-    <div>
-        
-    </div>
-    </form>
+
 </body>
 </html>

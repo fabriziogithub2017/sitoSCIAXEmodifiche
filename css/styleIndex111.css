@@ -412,6 +412,7 @@ a {
 }
 
 .shadow1 {
-    color: white;
-    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-size: small;
+    color: #776f6f;
+    /*text-shadow: 1px 1px 1px rgb(0, 0, 0);*/
 }
