@@ -3,18 +3,17 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
     <title>Serigrafia e ricamo su abbigliamento, gadget personalizzati con il tuo logo, sciax'è snc</title>
     <meta name="description" content="Abbigliamento da lavoro personalizzato, antinfortunistica. Gadget personalizzati con il tuo logo. Produzione di timbri e datari. Serigrafia e ricamo in proprio.">
-
     <!--Main scripts-->
-    <script src="../app/view/assets/lib/angular/angular.min.js"></script>
-
-    <!--Controllers-->
-    <script src="../app/controller/indexController.js"></script>
-
+    <script src="app/view/assets/lib/angular/angular.min.js"></script>
+    <!--Controllers-->   
+    <script src="app/controller/indexController.js"></script>
 </asp:Content>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <body ng-app="myapp" ng-controller="indexController as vm">
 
         <header>
+            <script type="application/ld+json">
             <!-- Schema.org Organization-->
             <%--<script type="application/ld+json">--%>
             {
@@ -98,7 +97,7 @@
                             </a>
                             <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
                                 <span class="glyphicon glyphicon-chevron-right"></span>
-                            </a>-->
+                            </a>
                         </div>
                     </div>
                 </div>

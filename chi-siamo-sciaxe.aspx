@@ -8,7 +8,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <!-- Breadcrumb e schema org Web page -->
     <ol class="breadcrumb">
-        <li><a href="../index.html">Home</a></li>
+        <li><a href="../Index.aspx">Home</a></li>
         <li class="active"><b>Chi siamo</b></li>
     </ol>
 

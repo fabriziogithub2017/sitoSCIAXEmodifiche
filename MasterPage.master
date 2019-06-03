@@ -8,7 +8,7 @@
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
     <link rel="icon" type="image/png" href="jmg/favicon.png">
-    <meta name=”robots” content=”index,follow”>
+    <meta name="”robots”" content="”index,follow”">
     <meta name="google-site-verification" content="ugFY8TfZUPQ4jAyqYJmv3N5L7CzLyFizpHAzbabunVQ" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,13 +17,7 @@
     <meta http-equiv="content-language" content="IT">
     <meta name="creation_Date" content="02/09/2013">
     <meta name="revisit-after" content="7 days">
-
-    <!--Main scripts-->
-    <script src="app/view/assets/lib/angular/angular.min.js"></script>
-
-    <!--Controllers-->
-    <script src="app/controller/indexController.js"></script>
-
+          
     <!-- Bootstrap CSS -->
     <link href="css/bootstrap.css" rel="stylesheet" />
 
@@ -35,7 +29,7 @@
 
     <!--banner Consenso dei Cookies-->
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
-   
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124435084-1"></script>
     <script>
@@ -46,59 +40,60 @@
     </script>
 </head>
 
-<body >
-     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-     </asp:ContentPlaceHolder> 
+<body>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
 
     <!-- header -->
-    <header>    
+    <header>
         <!-- script banner consenso cookie -->
-    <script src="js/Barra_Policy.js"></script>
+        <script src="js/Barra_Policy.js"></script>
 
         <!-- Navigation -->
         <nav class="navbar navbar-inverse navbar-fixed-top">
-                <div class="container">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <div class="logo">
-                            <img src="jmg/marchio-sciaxe.png" alt="sciax'è snc" />
-                            <h2 class="navbar-text ">grafica sciax'è</h2>
-                            <div class="phone-number" alt="Telefono 0113975398"></div>
-                        </div>
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <div class="logo">
+                        <img src="../jmg/marchio-sciaxe.png" alt="sciax'è snc" />
+                        <h2 class="navbar-text ">grafica sciax'è</h2>
+                        <div class="phone-number" alt="Telefono 0113975398"></div>
                     </div>
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                        <ul class="nav navbar-nav navbar-right">
-                            <!--<li><a href="http://www.calendaritorino.it/" target="_blank">shopping</a></li>-->
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Prodotti <span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="../Categorie/Abbigliamento-da-lavoro.html">Abbigliamento</a></li>
-                                    <li><a href="../Categorie/Agende-2019-personalizzate.html">Agende</a></li>
-                                    <li><a href="../Categorie/Borse-Zaini-personalizzati.html">Borse e zaini</a></li>
-                                    <li><a href="../Categorie/Calendari-2019-personalizzati.html">Calendari</a></li>
-                                    <li><a href="../Categorie/Penne-personalizzate.html">Penne</a></li>
-                                    <li><a href="../Categorie/Braccialetti-personalizzati.html">Braccialetti</a></li>
-                                    <li><a href="../Categorie/Shopper-personalizzati.html">Shopper</a></li>
-                                    <li><a href="../Categorie/Block-Notes-personalizzati-a-colori.html">Block notes</a></li>
-                                    <li><a href="../Categorie/Timbri-datari.html">Timbri</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-
-                    </div>
-                    <!-- /.navbar-collapse -->
                 </div>
-                <!-- /.container-fluid -->
-            </nav>
-    </header>    
-   
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="../Index.aspx">index</a></li>
+                        <!--<li><a href="http://www.calendaritorino.it/" target="_blank">shopping</a></li>-->
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Prodotti <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../Categorie/Abbigliamento-da-lavoro.aspx">Abbigliamento</a></li>
+                                <li><a href="../Categorie/Agende-2019-personalizzate.html">Agende</a></li>
+                                <li><a href="../Categorie/Borse-Zaini-personalizzati.html">Borse e zaini</a></li>
+                                <li><a href="../Categorie/Calendari-2019-personalizzati.html">Calendari</a></li>
+                                <li><a href="../Categorie/Penne-personalizzate.html">Penne</a></li>
+                                <li><a href="../Categorie/Braccialetti-personalizzati.html">Braccialetti</a></li>
+                                <li><a href="../Categorie/Shopper-personalizzati.html">Shopper</a></li>
+                                <li><a href="../Categorie/Block-Notes-personalizzati-a-colori.html">Block notes</a></li>
+                                <li><a href="../Categorie/Timbri-datari.html">Timbri</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container-fluid -->
+        </nav>
+    </header>
+
     <!-- Footer -->
     <div class="container">
         <!-- Footer -->
@@ -116,9 +111,10 @@
             <section class="container-footer section-footer">
                 <div class="row">
                     <div class="col col-md-3 col-sm-12 ">
-                        <img src="jmg/logo-sciaxe.png" alt="sciax'è snc'">
+                        <img src="../jmg/logo-sciaxe.png" alt="sciax'è snc'">
                         <p>Ci trovate in:</p>
-                        <p>Strada del Portone 10 - Grugliasco (TO) Tel.  011. 397 53 98</p>
+                        <p>Strada del Portone 10 - Grugliasco (TO)</p>
+                        <p><b>Tel.  011. 397 53 98</b></p>
                         <!--<a href="http://www.calendaritorino.it/" target="_blank">
                             <p>shopping online</p>
                         </a>
