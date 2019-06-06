@@ -51,11 +51,9 @@
 </head>
 
 <body>
-    <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
-    </asp:ContentPlaceHolder>
-
     <!-- header -->
     <header>
+        
         <!-- script banner consenso cookie -->
         <script src="js/Barra_Policy.js"></script>
 
@@ -103,6 +101,8 @@
             <!-- /.container-fluid -->
         </nav>
     </header>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+    </asp:ContentPlaceHolder>
 
     <!-- Footer -->
     <div class="container">
