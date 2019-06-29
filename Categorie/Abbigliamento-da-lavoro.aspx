@@ -22,7 +22,7 @@
        
             <!-- Breadcrumb e schema org Web page -->
             <ol class="breadcrumb">
-                <li><a href="../index.html">Home</a></li>
+                <li><a href="../index.aspx">Home</a></li>
                 <li class="active"><b>Abbigliamento da lavoro</b></li>
             </ol>
             <script type="application/ld+json">
@@ -101,6 +101,11 @@
                 </div>
             </div>
         </div>
+
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/jquery.cookie.js"></script>
+        <script src="../js/Barra_Policy.js"></script>
 
     </body>
 </asp:Content>
