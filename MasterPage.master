@@ -23,7 +23,8 @@
 
     <!-- CSS personalizzato-->
     <!--<link href="css/style.css" rel="stylesheet">-->
-    <link href="css/styleIndex111.css" rel="stylesheet" />
+    <!--<link href="css/styleIndex111.css" rel="stylesheet" />-->
+    <link href="css/stylePersonalizzato.css" rel="stylesheet" />
     <link href="css/Informativa-Policy.css" rel="stylesheet" />
 
     <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
@@ -88,7 +89,7 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Prodotti <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="../Categorie/Abbigliamento-da-lavoro.aspx">Abbigliamento</a></li>
-                                <li><a href="../Categorie/Agende-2019-personalizzate.html">Agende</a></li>
+                                <li><a href="../Categorie/Agende-2020-personalizzate.aspx">Agende</a></li>
                                 <li><a href="../Categorie/Borse-Zaini-personalizzati.html">Borse e zaini</a></li>
                                 <li><a href="../Categorie/Calendari-2019-personalizzati.html">Calendari</a></li>
                                 <li><a href="../Categorie/Penne-personalizzate.html">Penne</a></li>
@@ -138,7 +139,7 @@
                         <h3>Prodotti</h3>
                         <ul class="list-group">
                             <li><a href="Categorie/Abbigliamento-da-lavoro.aspx">Abbigliamento</a></li>
-                            <li><a href="Categorie/Agende-2019-personalizzate.html">Agende</a></li>
+                            <li><a href="Categorie/Agende-2020-personalizzate.aspx">Agende</a></li>
                             <li><a href="Categorie/Borse-Zaini-personalizzati.html">Borse e zaini</a></li>
                             <li><a href="Categorie/Calendari-2019-personalizzati.html">Calendari</a></li>
                             <li><a href="Categorie/Penne-personalizzate.html">Penne</a></li>

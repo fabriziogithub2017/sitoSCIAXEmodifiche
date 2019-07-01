@@ -16,7 +16,7 @@
     }
 
     vm.categoria = [{
-        'titolo': 'Agendina giornaliera', 'imgSrc': '../../jmg/jmgAgende/agendina-giornaliera.jpg', 'imgAlt': 'Agendina giornaliera 2019 personalizzata sulla copertina',
+        'titolo': 'Agendina giornaliera 2020', 'imgSrc': '../../jmg/jmgAgende/agendina-giornaliera.jpg', 'imgAlt': 'Agendina giornaliera 2019 personalizzata sulla copertina',
         'caratteristiche': [
             'F.to agenda cm 9 x 15',
             'carta avorio a righe ',
@@ -34,7 +34,7 @@
     },
 
         {
-            'titolo': 'Agenda 2019 giornaliera', 'imgSrc': '../../jmg/jmgAgende/agenda-2019-giornaliera-21x15.jpg', 'imgAlt': 'Agenda giornaliera 2019 personalizzata sulla copertina',
+            'titolo': 'Agenda 2020 giornaliera', 'imgSrc': '../../jmg/jmgAgende/agenda-2020-giornaliera.jpg', 'imgAlt': 'Agenda giornaliera 2019 personalizzata sulla copertina',
             'caratteristiche': [
                 'F.to agenda cm 15x21',
                 'carta bianca ',
