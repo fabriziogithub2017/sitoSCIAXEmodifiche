@@ -16,8 +16,8 @@
 .box3 {
     width: 60%;
     height: 20%;
-    background-color: white;
-    float: left;
+    /*background-color: white;*/
+    /*float: left;*/
 }
 
 .box4 {
@@ -49,10 +49,10 @@
 
 .buttonEmail {
     width: 80%;
-    height: 40%;
+    height: 45%;
     background-color: cornflowerblue;
     color: white;
-    margin: 5px 0px 0px 25px;
+    margin: 3px 0px 0px 84px;
     border-radius: 4px;
     text-align: center;
 }

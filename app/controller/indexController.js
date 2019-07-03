@@ -10,7 +10,7 @@
 
     vm.HomePage = [
         {
-            'ahref': '../Categorie/magliette-personalizzate.html',
+            'ahref': '../Categorie/magliette-personalizzate.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/maglietta cotone bianca.jpg', 'imgAlt': 'maglietta cotone bianca personalizzata a 1 colore',
             'prezzoVetrina': 'da € 2,30',
             'titolo': 'Maglietta bianca personalizzata',
@@ -18,7 +18,7 @@
         },
 
         {
-            'ahref': '../Categorie/magliette-personalizzate.html',
+            'ahref': '../Categorie/magliette-personalizzate.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/maglietta cotone colorate.jpg', 'imgAlt': 'maglietta cotone colorata personalizzata a 1 colore',
             'prezzoVetrina': 'da € 2,70',
             'titolo': 'Maglietta colorata personalizzata',
@@ -26,7 +26,7 @@
         },
 
         {
-            'ahref': '../Categorie/Shopper-personalizzati.html',
+            'ahref': '../Categorie/Shopper-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/shopper cotone.jpg', 'imgAlt': 'shopper in cotone personalizzati',
             'prezzoVetrina': 'da € 0,90',
             'titolo': 'Shoppers in cotone',
@@ -34,7 +34,7 @@
         },
 
         {
-            'ahref': '../Categorie/Calendari-2019-personalizzati.html',
+            'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/calendario olandese a colori.jpg', 'imgAlt': 'calendario olandese a colori personalizzato',
             'prezzoVetrina': 'da € 0,70',
             'titolo': 'Calendario tipo olandese a colori',
@@ -42,7 +42,7 @@
         },
 
         {
-            'ahref': '../Categorie/Timbri-datari.html',
+            'ahref': '../Categorie/Timbri-datari.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/Timbro-autoinchiostrato.jpg', 'imgAlt': 'Timbro autoinchiostrato',
             'prezzoVetrina': 'da € 13,00',
             'titolo': 'Timbro autoinchiostrato Trodat 4913',
@@ -50,7 +50,7 @@
         },
 
         {
-            'ahref': '../Categorie/Abbigliamento-da-lavoro.html',
+            'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/gilet classe2.jpg', 'imgAlt': 'gilet classe 2',
             'prezzoVetrina': 'da € 4,50',
             'titolo': 'Gilet alta visibilità classe 2',
@@ -58,7 +58,7 @@
         },
 
         {
-            'ahref': '../Categorie/Calendari-2019-personalizzati.html',
+            'ahref': '../Categorie/Calendari-2019-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese.jpg', 'imgAlt': 'calendario olandese personalizzato',
             'prezzoVetrina': 'da € 0,650',
             'titolo': 'Calendario tipo olandese',
@@ -66,7 +66,7 @@
         },
 
         {
-            'ahref': '../Categorie/Borse-Zaini-personalizzati.html',
+            'ahref': '../Categorie/Borse-Zaini-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/sacche economiche.jpg', 'imgAlt': 'sacche personalizzate',
             'prezzoVetrina': 'da € 0,85',
             'titolo': 'Sacca in nylon',
@@ -74,7 +74,7 @@
         },
 
         {
-            'ahref': '../Categorie/Calendari-2019-personalizzati.html',
+            'ahref': '../Categorie/Calendari-2019-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese-slim-a-colori.jpg', 'imgAlt': 'calendario olandese a colori slim',
             'prezzoVetrina': 'da € 0,60',
             'titolo': 'Calendario olandese a colori slim',
@@ -82,7 +82,7 @@
         },
 
         {
-            'ahref': '../Categorie/Agende-2019-personalizzate.html',
+            'ahref': '../Categorie/Agende-2019-personalizzate.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/AGENDA 2019 15 x 21 giornaliera.jpg', 'imgAlt': 'agenda giornaliera f.to 15 x 21',
             'prezzoVetrina': 'da € 2,90',
             'titolo': 'Agende giornaliera 2019',
@@ -90,7 +90,7 @@
         },
 
         {
-            'ahref': '../Categorie/Calendari-2019-personalizzati.html',
+            'ahref': '../Categorie/Calendari-2019-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/calendario da tavolo 2019.jpg', 'imgAlt': 'calendario da tavolo 2019',
             'prezzoVetrina': 'da € 0,80',
             'titolo': 'Calendario da tavolo personalizato',
@@ -98,7 +98,7 @@
         },
 
         {
-            'ahref': '../Categorie/Penne-personalizzate.html',
+            'ahref': '../Categorie/Penne-personalizzate.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/Penne-personalizzate-a-1-colore.jpg', 'imgAlt': 'penna a biro personalizzata a 1 colore',
             'prezzoVetrina': 'da € 0,30',
             'titolo': 'Penna a sfera personalizzata',
@@ -106,7 +106,7 @@
         },
 
         {
-            'ahref': '../Categorie/Agende-2019-personalizzate.html',
+            'ahref': '../Categorie/Agende-2019-personalizzate.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/notes-a-righe.jpg', 'imgAlt': 'notes a rghe f.to 9 x 14',
             'prezzoVetrina': 'da € 1,50',
             'titolo': 'Notes a righe',
@@ -114,7 +114,7 @@
         },
 
         {
-            'ahref': '../Categorie/Abbigliamento-da-lavoro.html',
+            'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/giubbotto-da-lavoro.jpg', 'imgAlt': 'giubbotto da lavoro con maniche staccabili',
             'prezzoVetrina': 'da € 25',
             'titolo': 'Giubbotto con maniche staccabili',
@@ -122,7 +122,7 @@
         },
 
         {
-            'ahref': '../Categorie/Borse-Zaini-personalizzati.html',
+            'ahref': '../Categorie/Borse-Zaini-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/zainetti.jpg', 'imgAlt': 'zainetti colorati personalizzati',
             'prezzoVetrina': 'da € 5,90',
             'titolo': 'Zainetti personalizzati',
@@ -130,7 +130,7 @@
         },
 
         {
-            'ahref': '../Categorie/Portachiavi-personalizzati.html',
+            'ahref': '../Categorie/Portachiavi-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/portachiavi.jpg', 'imgAlt': 'porta chiavi personalizzati',
             'prezzoVetrina': 'da € 1,90',
             'titolo': 'Portachiavi in alluminio',
@@ -138,7 +138,7 @@
         },
 
         {
-            'ahref': '../Categorie/Braccialetti-personalizzati.html',
+            'ahref': '../Categorie/Braccialetti-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/bracciali-in-silicone.jpg', 'imgAlt': 'braccialetti in silicone personalizzati',
             'prezzoVetrina': 'da € 0,66',
             'titolo': 'Braccialetti in silicone',
@@ -146,7 +146,7 @@
         },
 
         {
-            'ahref': '../Categorie/Lanyard-personalizzati.html',
+            'ahref': '../Categorie/Lanyard-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/lanyards-personalizzati.jpg', 'imgAlt': 'Lanyards personalizzati con logo fronte e retro',
             'prezzoVetrina': 'da € 0,60',
             'titolo': 'Lanyards personalizzati',
@@ -154,7 +154,7 @@
         },
 
         {
-            'ahref': '../Categorie/Borse-Zaini-personalizzati.html',
+            'ahref': '../Categorie/Borse-Zaini-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/cartella-porta-documenti.jpg', 'imgAlt': 'cartella porta documenti personalizzata a 1 colore',
             'prezzoVetrina': 'da € 1,60',
             'titolo': 'Cartella porta documenti',
@@ -162,7 +162,7 @@
         },
 
         {
-            'ahref': '../Categorie/Braccialetti-personalizzati.html',
+            'ahref': '../Categorie/Braccialetti-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/bracciali-in-silicone-in-rilievo.jpg', 'imgAlt': 'braccialetti in silicone personalizzati in rilievo con lo stesso colore',
             'prezzoVetrina': 'da € 0,78',
             'titolo': 'Braccialetti in silicone',
@@ -170,7 +170,7 @@
         },
 
         {
-            'ahref': '../Categorie/Braccialetti-personalizzati.html',
+            'ahref': '../Categorie/Braccialetti-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/bracciali-in-silicone-incisi.jpg', 'imgAlt': 'braccialetti in silicone personalizzati incisi con lo stesso colore',
             'prezzoVetrina': 'da € 0,75',
             'titolo': 'Braccialetti in silicone',
@@ -179,7 +179,7 @@
         },
 
         {
-            'ahref': '../Categorie/Agende-2019-personalizzate.html',
+            'ahref': '../Categorie/Agende-2020-personalizzate.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/AGENDINA-giornaliera.jpg', 'imgAlt': 'agendina giornaliera f.to 9 x 15',
             'prezzoVetrina': 'da € 3,50',
             'titolo': 'Agendina giornaliera 2019',

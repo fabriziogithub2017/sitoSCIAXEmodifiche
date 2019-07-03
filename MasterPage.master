@@ -83,20 +83,22 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="../Index.aspx">index</a></li>
+                        <li><a href="../index.aspx">index</a></li>
                         <!--<li><a href="http://www.calendaritorino.it/" target="_blank">shopping</a></li>-->
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Prodotti <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="../Categorie/Abbigliamento-da-lavoro.aspx">Abbigliamento</a></li>
                                 <li><a href="../Categorie/Agende-2020-personalizzate.aspx">Agende</a></li>
-                                <li><a href="../Categorie/Borse-Zaini-personalizzati.html">Borse e zaini</a></li>
-                                <li><a href="../Categorie/Calendari-2019-personalizzati.html">Calendari</a></li>
-                                <li><a href="../Categorie/Penne-personalizzate.html">Penne</a></li>
-                                <li><a href="../Categorie/Braccialetti-personalizzati.html">Braccialetti</a></li>
-                                <li><a href="../Categorie/Shopper-personalizzati.html">Shopper</a></li>
-                                <li><a href="../Categorie/Block-Notes-personalizzati-a-colori.html">Block notes</a></li>
-                                <li><a href="../Categorie/Timbri-datari.html">Timbri</a></li>
+                                <li><a href="../Categorie/Block-Notes-personalizzati-a-colori.aspx">Block notes</a></li>
+                                <li><a href="../Categorie/Borse-Zaini-personalizzati.aspx">Borse e zaini</a></li>
+                                <li><a href="../Categorie/Braccialetti-personalizzati.aspx">Braccialetti</a></li>
+                                <li><a href="../Categorie/Calendari-2020-personalizzati.aspx">Calendari</a></li>
+                                <li><a href="../Categorie/Lanyard-personalizzati.aspx">Lanyard</a></li>
+                                <li><a href="../Categorie/Penne-personalizzate.aspx">Penne</a></li>
+                                <li><a href="../Categorie/Portachiavi-personalizzati.aspx">Portachiavi</a></li>
+                                <li><a href="../Categorie/Shopper-personalizzati.aspx">Shopper</a></li>
+                                <li><a href="../Categorie/Timbri-datari.aspx">Timbri</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -138,15 +140,17 @@
                     <div class="col col-md-3 col-sm-4 col-xs-6">
                         <h3>Prodotti</h3>
                         <ul class="list-group">
-                            <li><a href="Categorie/Abbigliamento-da-lavoro.aspx">Abbigliamento</a></li>
-                            <li><a href="Categorie/Agende-2020-personalizzate.aspx">Agende</a></li>
-                            <li><a href="Categorie/Borse-Zaini-personalizzati.html">Borse e zaini</a></li>
-                            <li><a href="Categorie/Calendari-2019-personalizzati.html">Calendari</a></li>
-                            <li><a href="Categorie/Penne-personalizzate.html">Penne</a></li>
-                            <li><a href="Categorie/Gadget-personalizzati.html">Gadget</a></li>
-                            <li><a href="Categorie/Shopper-personalizzati.html">Shopper</a></li>
-                            <li><a href="Categorie/Block-Notes-personalizzati-a-colori.html">Block notes</a></li>
-                            <li><a href="Categorie/Timbri-datari.html">Timbri</a></li>
+                            <li><a href="../Categorie/Abbigliamento-da-lavoro.aspx">Abbigliamento</a></li>
+                            <li><a href="../Categorie/Agende-2020-personalizzate.aspx">Agende</a></li>
+                            <li><a href="../Categorie/Block-Notes-personalizzati-a-colori.aspx">Block notes</a></li>
+                            <li><a href="../Categorie/Borse-Zaini-personalizzati.aspx">Borse e zaini</a></li>
+                            <li><a href="../Categorie/Braccialetti-personalizzati.aspx">Braccialetti</a></li>
+                            <li><a href="../Categorie/Calendari-2020-personalizzati.aspx">Calendari</a></li>
+                            <li><a href="../Categorie/Lanyard-personalizzati.aspx">Lanyard</a></li>
+                            <li><a href="../Categorie/Penne-personalizzate.aspx">Penne</a></li>
+                            <li><a href="../Categorie/Portachiavi-personalizzati.aspx">Portachiavi</a></li>
+                            <li><a href="../Categorie/Shopper-personalizzati.aspx">Shopper</a></li>
+                            <li><a href="../Categorie/Timbri-datari.aspx">Timbri</a></li>
                         </ul>
                         <div class="provaFooter">
                             <p>Copyright © 2010 - 2019</p>
@@ -159,11 +163,11 @@
                     <div class="col col-md-3 col-sm-4 col-xs-6">
                         <h3>Sito</h3>
                         <ul class="list-group">
-                            <li><a href="chi-siamo-sciaxe.aspx">Chi siamo</a></li>
-                            <li><a href="dove-siamo-sciaxe.aspx">Dove siamo</a></li>
-                            <li><a href="contatti-sciaxe.aspx">Contatti</a></li>
-                            <li><a href="Informativa-Policy.aspx">Info privacy & cookie </a></li>
-                            <li><a href="Faq-Domande-frequenti.aspx">Faq-Domande-frequenti</a></li>
+                            <li><a href="../chi-siamo-sciaxe.aspx">Chi siamo</a></li>
+                            <li><a href="../dove-siamo-sciaxe.aspx">Dove siamo</a></li>
+                            <li><a href="../contatti-sciaxe.aspx">Contatti</a></li>
+                            <li><a href="../Informativa-Policy.aspx">Info privacy & cookie </a></li>
+                            <li><a href="../Faq-Domande-frequenti.aspx">Faq-Domande-frequenti</a></li>
                         </ul>
                     </div>
                     <div class="col col-md-3 col-sm-4 col-xs-12">

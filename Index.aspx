@@ -65,32 +65,32 @@
                          </ol> -->
                             <div class="carousel-inner">
                                 <div class="item active ">
-                                    <a href="Categorie/Timbri-datari.html">
+                                    <a href="Categorie/Timbri-datari.aspx">
                                         <img class="slide-image" src="jmg/carouselJmg/timbri.jpg" alt="timbri"></a>
                                     <div class="carousel-caption"></div>
                                 </div>
                                 <div class="item">
-                                    <a href="Categorie/Shopper-personalizzati.html">
+                                    <a href="Categorie/Shopper-personalizzati.aspx">
                                         <img class="slide-image" src="jmg/carouselJmg/shopper-tnt-personalizzati.jpg" alt="shopper in tnt personalizzati"></a>
                                 </div>
                                 <div class="item">
-                                    <a href="Categorie/Borse-Zaini-personalizzati.html">
+                                    <a href="Categorie/Borse-Zaini-personalizzati.aspx">
                                         <img class="slide-image" src="jmg/carouselJmg/zainetto-personalizzato.jpg" alt="zainetti personalizzati"></a>
                                 </div>
                                 <div class="item">
-                                    <a href="Categorie/Abbigliamento-da-lavoro.html">
+                                    <a href="Categorie/Abbigliamento-da-lavoro.aspx">
                                         <img class="slide-image" src="jmg/carouselJmg/abbigliamento-invernale.jpg" alt="abbigliamento personalizzato"></a>
                                 </div>
                                 <div class="item">
-                                    <a href="Categorie/Abbigliamento-da-lavoro.html">
+                                    <a href="Categorie/Abbigliamento-da-lavoro.aspx">
                                         <img class="slide-image" src="jmg/carouselJmg/bavaglio-ristorante.jpg" alt="bavaglio ristorante"></a>
                                 </div>
                                 <div class="item">
-                                    <a href="Categorie/Block-Notes-personalizzati-a-più-colori.html">
+                                    <a href="Categorie/Block-Notes-personalizzati-a-colori.aspx">
                                         <img class="slide-image" src="jmg/carouselJmg/block-notes.jpg" alt="block notes"></a>
                                 </div>
                                 <div class="item">
-                                    <a href="Categorie/Penne-personalizzate.html">
+                                    <a href="Categorie/Penne-personalizzate.aspx">
                                         <img class="slide-image" src="jmg/carouselJmg/penne-personalizzate.jpg" alt="penne personalizzate"></a>
                                 </div>
                             </div>
