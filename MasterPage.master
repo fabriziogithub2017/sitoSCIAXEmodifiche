@@ -35,7 +35,7 @@
 
     <!--banner Consenso dei Cookies-->
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
-    
+
 
     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         <!--Main scripts-->
@@ -178,18 +178,14 @@
         </footer>
     </div>
 
-   
-        <!-- jQuery -->
-        <script src="js/jquery.js"></script>
-
-        <script src="js/bootstrap.min.js"></script>
-
-        <!--javascript testo scorrevole sull 'index centrale -->
-        <script src="js/testoscorrevole.js"></script>
-
-        <!--javascript Consenso dei Cookies-->
-        <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-    
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+    <!-- javascript bootstrap.min -->
+    <script src="js/bootstrap.min.js"></script>
+    <!--javascript testo scorrevole sull 'index centrale -->
+    <script src="js/testoscorrevole.js"></script>
+    <!--javascript Consenso dei Cookies-->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 
 </body>
 </html>
