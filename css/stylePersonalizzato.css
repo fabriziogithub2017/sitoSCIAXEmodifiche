@@ -264,7 +264,8 @@ h2:hover {
     text-align: center;
     line-height: 12px;
     padding-top: 10%;
-    background-color: #dcdbdb;
+    background-color: #eaeae4;
+    color: blue;
 }
 
 .menuLaterale2 {
@@ -275,18 +276,31 @@ h2:hover {
     line-height: 12px;
     padding-top: 10%;
     font-display: auto;
+    background-color: #cbcac5;
 }
 
 .menuLaterale3 {
     display: block;
     width: 75px;
-    height: 10px;
+    height: 20px;
     text-align: center;
-    line-height: 12px;
+    line-height: 4px;
     padding-top: 10%;
-    background-color: red;
+    background-color: #737272;
+    color: antiquewhite;
 }
 
+.menuLaterale4 {
+    display: block;
+    width: 75px;
+    height: 5px;
+    text-align: center;
+    line-height: 1px;
+    padding-top: 10%;
+    background-color: #ffcc00;
+    color: white;
+    font-size: 12px;
+}
 
 a {
     color: black;

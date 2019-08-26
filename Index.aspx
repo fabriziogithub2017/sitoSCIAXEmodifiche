@@ -125,50 +125,53 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-1">
-                            <div class="menuLaterale3"></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">T-shirt Magliette</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Canotte</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Polo</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Camicie</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Bomberini leggeri</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Cappelli</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Felpe</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Gilet estivi</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">&nbsp;&nbsp;&nbsp;&nbsp;Kway&nbsp; Anti pioggia</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Giubbotti invernali</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Softshell</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Pile</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Ristoranti Pizzerie</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Scarpe da lavoro</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Grembiuli Camici</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Pantaloni da lavoro</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Salopette da lavoro</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Giubbini da lavoro</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Giacche da lavoro</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Alta Visibilità</a></div>
-                            <div class="menuLaterale3"></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Shopper</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Sacchetti in carta</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Busta per vino</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Sacche</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Zaini</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Cartelle</a></div>
-                            <div class="menuLaterale3"></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Gadget</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Block Notes</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Penne</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Bracciali in silicone</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Portachiavi</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Ombrelli</a></div>
-                            <div class="menuLaterale3"></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Calendari</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Agende</a></div>
-                            <div class="menuLaterale3"></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">Timbri</a></div>
-                            <div class="menuLaterale3"></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">Video laboratorio</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.html">?</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.html">?</a></div>
+                            <div class="menuLaterale3">MENU</div>
+                            <div class="menuLaterale4"></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">T-shirt Magliette</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Canotte</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Polo</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Camicie</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Bomberini leggeri</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Cappelli</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Felpe</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Gilet estivi</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">&nbsp;&nbsp;&nbsp;&nbsp;Kway&nbsp; Anti pioggia</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Giubbotti invernali</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Softshell</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Pile</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue; font-size: 12px;">Abbigliamento Pizzerie</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue; font-size: 12px;">Abbigliamento Ristoranti</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Guanti</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Scarpe da lavoro</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Grembiuli Camici</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Pantaloni da lavoro</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Salopette da lavoro</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Giubbini da lavoro</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Giacche da lavoro</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue; font-size: 12px;">Abbigliamento Alta Visibilità</a></div>
+                            <div class="menuLaterale4"></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Shopper</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Sacchetti in carta</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Busta per vino</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Sacche</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Zaini</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Cartelle</a></div>
+                            <div class="menuLaterale4"></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Gadget</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Block Notes</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Penne</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Bracciali in silicone</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Portachiavi</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Ombrelli</a></div>
+                            <div class="menuLaterale4"></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Calendari</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Agende</a></div>
+                            <div class="menuLaterale4"></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Timbri</a></div>
+                            <div class="menuLaterale4"></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Video laboratorio</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
 
                         </div>
                         <div class="col-sm-6 col-lg-3 col-md-6" ng-repeat="y in vm.HomePage">
