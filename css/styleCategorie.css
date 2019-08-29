@@ -1,10 +1,9 @@
-﻿
-.box1 {
+﻿.box1 {
     width: 60%;
     height: 80%;
     background-color: white;
     float: left;
-   }
+}
 
 .box2 {
     width: 40%;
@@ -20,17 +19,16 @@
     /*float: left;*/
 }
 
-.box4 {
-    width: 36%;
-    height: 13%;
+.sceglieretaglia {
+    width: 47%;
+    height: 4%;
     background-color: yellow;
     float: right;
-    margin: -20px auto;
-    margin-right: 10px;
+    margin: 23px 30px 0px 0px;
+    padding: 0px 0px 0px 0px;
     border-radius: 4px;
     text-align: center;
     font-size: medium;
-    padding: 4px;
 }
 
 .buttonCompra {
@@ -52,25 +50,23 @@
     height: 45%;
     background-color: cornflowerblue;
     color: white;
-    margin: 3px 0px 0px 84px;
+    margin: 45px 0px 0px 15px;
+    padding: 0px 0px 0px 0px;
     border-radius: 4px;
     text-align: center;
-}
-
-.buttonManda {
-    margin: -10px;
-    font-size: 18px;
-}
-
-.buttonVuoi {
-    font-size: 18px;
-    color: navy;
-    margin: -7px 0px 0px 0px;
 }
 
 h2 {
     font-size: large;
     color: darkred;
+    margin: 0px 0px 0px 6px;
+}
+
+h3 {
+    font-size: 14px;
+    color: black;
+    margin: 6px 0px 6px 6px;
+    font-weight: bold;
 }
 
 .thumbnail {
@@ -80,69 +76,60 @@ h2 {
     display: block;
 }
 
+img {
+    vertical-align: middle;
+}
+
 ul {
     padding-left: 23px;
     font-size: 12px;
 }
 
-@media screen and (max-width: 1184px) {
+@media screen and (max-width: 1199px) {
 
     .buttonCompra {
         margin: 6px 0px 0px 59px;
     }
 
     .buttonEmail {
-        margin: 5px 0px 0px 19px;
+        margin: 49px 0px 0px 19px;
     }
 
-    .buttonManda {
-        margin: -5px;
-        font-size: 18px
+    .sceglieretaglia {
+        margin: 29px 38px 0px 0px;
+        font-size: 108%
     }
 
-    .buttonVuoi {
-        font-size: 15px;
-        margin: -2px 0px 0px 0px;
+    .thumbnail img {
+        display: block;
+        width: 90%;
+        max-height: 107%;
     }
 }
 
-@media screen and (max-width: 991px), (max-width: 630px) /*and (max-width: 699px) and (min-width: 520px)*/
+@media screen and (max-width: 991px) /*, (max-width: 630px) and (max-width: 699px) and (min-width: 520px)*/
 {
-    ul {
-        font-size: 11.25px;
-    }
 
     h2 {
         font-size: medium;
     }
 
-    .buttonManda {
-        margin: -1px;
-        font-size: 15px
+    .buttonEmail {
+        margin: 38px 0px 0px 19px;
     }
 
-    .buttonVuoi {
-        font-size: 12px;
+    .sceglieretaglia {
+        margin: 10px 24px 0px 0px;
     }
 
-    .box4 {
-        width: 36%;
-        height: 10%;
-        position: absolute;
-        top: 72%;
-        left: 13%;
+    .thumbnail img {
+        display: block;
+        width: 101%;
+        max-height: 106%;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .box4 {
-        width: 36%;
-        height: 13%;
-        padding: 10px;
-        position: absolute;
-        top: 89%;
-        left: 59%
-    }
 
     .buttonCompra {
         margin: 6px 0px 0px 97px;
@@ -151,69 +138,83 @@ ul {
     .buttonEmail {
         width: 70%;
         height: 40%;
-        margin: 5px 0px 0px 50px;
+        margin: 53px 0px 0px 50px;
     }
 
-    .buttonManda {
-        margin: -5px;
-        font-size: 18px
+    .sceglieretaglia {
+        width: 42%;
+        height: 4%;
+        margin: 31px 80px 0px 0px;
     }
 
-    .buttonVuoi {
-        font-size: 16px;
-        margin: -2px 0px 0px 0px;
-    }
-}
-
-@media screen and (max-width: 487px) {
-
-    .buttonCompra {
-        margin: -6px 0px 0px 39px;
+    .thumbnail img {
+        display: block;
+        width: 76%;
+        max-height: 107%;
+        margin: 0px 0px 0px 63px;
     }
 
-    .buttonEmail {
-        width: 90%;
-        margin: 5px 0px 0px 11px;
-    }
-
-    .buttonVuoi {
-        font-size: 14px;
-        margin: 0px 0px -5px 0px;
-    }
-
-    .buttonManda {
-        margin: -5px;
-        font-size: 16px
-    }
-}
-
-@media screen and (max-width: 414px) {
-    .box4 {
-        width: 36%;
-        height: 13%;
-        position: absolute;
-        padding: 8px;
-        top: 60%;
-        left: 13%
-    }
-
-    .buttonCompra {
-        margin: -6px 0px 0px 39px;
-    }
-
-    .buttonEmail {
-        width: 90%;
-        margin: 5px 0px 0px 11px;
-    }
-
-    .buttonVuoi {
-        font-size: 12px;
-        margin: 0px 0px -5px 0px;
-    }
-}
-
-@media screen and (max-width: 992px) {
     ul {
-        font-size: 12px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+
+    .buttonCompra {
+        margin: 6px 0px 0px 97px;
+    }
+
+    .buttonEmail {
+        width: 70%;
+        height: 40%;
+        margin: 53px 0px 0px 16px;
+    }
+
+    .sceglieretaglia {
+        width: 42%;
+        height: 4%;
+        margin: 33px 65px 0px 0px;
+    }
+
+    .thumbnail img {
+        display: block;
+        width: 98%;
+        max-height: 107%;
+        margin: 0px 0px 0px 2px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+    .buttonCompra {
+        margin: 6px 0px 0px 97px;
+    }
+
+    .buttonEmail {
+        width: 91%;
+        height: 50%;
+        margin: 32px 0px 0px 7px;
+    }
+
+    .sceglieretaglia {
+        width: 54%;
+        height: 5%;
+        margin: -57px 138px 0px 0px;
+    }
+
+    .thumbnail img {
+        display: block;
+        width: 98%;
+        max-height: 107%;
+        margin: 0px 0px 0px 2px;
+    }
+
+    .thumbnail {
+        height: 454px;
+    }
+
+    ul {
+        font-size: 11px;
     }
 }

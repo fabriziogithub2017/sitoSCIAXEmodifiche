@@ -78,10 +78,10 @@
                             </div>
                             <div class="box2">
                                 <h2>{{y.titolo}}</h2>
+                                <h3>{{y.prezzo}}</h3>
                                 <ul>
                                     <li ng-repeat="x in y.caratteristiche">{{x}}</li>
-                                </ul>
-                                <h3>{{y.prezzo}}</h3>
+                                </ul>                                
                             </div>
                             <div class="box3">
                                 <!--<a href=http://calendaritorino.it target=”_blank”>
@@ -94,7 +94,7 @@
                                 </button>
                             </div>
                             <a href="../Categorie/Quale-taglia-ordinare-per-abbigliamento-da-lavoro.html" target="”_blank”">
-                                <div class="box4">Come scegliere la taglia</div>
+                                <div class="sceglieretaglia">Come scegliere la taglia</div>
                             </a>
                         </div>
                     </div>

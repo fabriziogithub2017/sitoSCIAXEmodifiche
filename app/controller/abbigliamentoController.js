@@ -58,7 +58,7 @@
                 'chiusura con velcro',
                 'DPI 2ª categoria',
                 'conforme omologato EN 471',
-            '50 gilet personalizzati davanti e dietro'],
+                '50 gilet personalizzati davanti e dietro'],
             'prezzo': 'da € 4,50 cad. +iva'
         },
         {
@@ -69,7 +69,7 @@
                 'formato: 35 x 44 cm.',
                 'usa e getta',
                 '200 bavagli stampati a 1 colore'],
-            'prezzo': 'a € 80 +iva'
+            'prezzo': '200 pz. € 80 +iva'
         },
     ]
 
