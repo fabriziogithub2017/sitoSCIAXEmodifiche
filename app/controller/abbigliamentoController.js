@@ -6,7 +6,6 @@
         document.cookie = oggetto;
         //location.href = 'MandaEmail.aspx';
         location.href = '../Categorie/MandaEmail.aspx';
-
     }
 
     init();
@@ -14,7 +13,7 @@
     function init() {
         console.log("Initialized");
     }
-
+    
     vm.categoria = [
         {
             'titolo': 'Giubbotto Sottozero', 'imgSrc': '../../jmg/jmgAbbigliamento/giubbotto-da-lavoro.jpg', 'imgAlt': 'Giubbotto sottozero personalizzato',
@@ -47,6 +46,7 @@
                 '30 pile con ricamo altezza cuore inclusa'],
             'prezzo': 'a € 15 cad. +iva'
         },
+
         {
             'titolo': 'Gilet classe 2', 'imgSrc': '../../jmg/jmgAbbigliamento/gilet classe 2 personalizzato.jpg', 'imgAlt': 'Gilet giallo o arancione classe 2 personalizzato',
             'caratteristiche': [
