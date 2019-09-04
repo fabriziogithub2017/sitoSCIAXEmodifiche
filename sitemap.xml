@@ -1,216 +1,280 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  <!--Url Extract: 21-->
 
 
 
   -<url>
 
-    <loc>https://www.sciaxe.it/</loc>
+    <loc>https://sciaxe.it/</loc>
 
-    <lastmod>2019-03-20T17:57:52+00:00</lastmod>
+    <lastmod>2019-09-04</lastmod>
 
-    <priority>1.00</priority>
+    <changefreq>always</changefreq>
+
+    <priority>1.0</priority>
 
   </url>
 
 
   -<url>
 
-    <loc>https://www.sciaxe.it/Categorie/Abbigliamento-da-lavoro.html</loc>
+    <loc>https://sciaxe.it/categorie/timbri-datari.aspx</loc>
 
-    <lastmod>2019-03-20T17:58:46+00:00</lastmod>
+    <lastmod>2019-09-04</lastmod>
 
-    <priority>0.80</priority>
+    <changefreq>daily</changefreq>
 
-  </url>
-
-
-  -<url>
-
-    <loc>https://www.sciaxe.it/Categorie/Agende-2019-personalizzate.html</loc>
-
-    <lastmod>2019-03-20T17:58:46+00:00</lastmod>
-
-    <priority>0.80</priority>
+    <priority>0.9</priority>
 
   </url>
 
 
   -<url>
 
-    <loc>https://www.sciaxe.it/Categorie/Borse-Zaini-personalizzati.html</loc>
+    <loc>https://sciaxe.it/categorie/shopper-personalizzati.aspx</loc>
 
-    <lastmod>2019-03-20T17:58:47+00:00</lastmod>
+    <lastmod>2019-09-04</lastmod>
 
-    <priority>0.80</priority>
+    <changefreq>daily</changefreq>
 
-  </url>
-
-
-  -<url>
-
-    <loc>https://www.sciaxe.it/Categorie/Calendari-2019-personalizzati.html</loc>
-
-    <lastmod>2019-03-20T17:58:47+00:00</lastmod>
-
-    <priority>0.80</priority>
+    <priority>0.9</priority>
 
   </url>
 
 
   -<url>
 
-    <loc>https://www.sciaxe.it/Categorie/Penne-personalizzate.html</loc>
+    <loc>https://sciaxe.it/categorie/borse-zaini-personalizzati.aspx</loc>
 
-    <lastmod>2019-03-20T17:58:47+00:00</lastmod>
+    <lastmod>2019-09-04</lastmod>
 
-    <priority>0.80</priority>
+    <changefreq>daily</changefreq>
 
-  </url>
-
-
-  -<url>
-
-    <loc>https://www.sciaxe.it/Categorie/Braccialetti-personalizzati.html</loc>
-
-    <lastmod>2019-03-20T17:58:47+00:00</lastmod>
-
-    <priority>0.80</priority>
+    <priority>0.9</priority>
 
   </url>
 
 
   -<url>
 
-    <loc>https://www.sciaxe.it/Categorie/Shopper-personalizzati.html</loc>
+    <loc>https://sciaxe.it/categorie/abbigliamento-da-lavoro.aspx</loc>
 
-    <lastmod>2019-03-20T17:58:47+00:00</lastmod>
+    <lastmod>2019-09-04</lastmod>
 
-    <priority>0.80</priority>
+    <changefreq>daily</changefreq>
 
-  </url>
-
-
-  -<url>
-
-    <loc>https://www.sciaxe.it/Categorie/Block-Notes-personalizzati-a-colori.html</loc>
-
-    <lastmod>2019-03-20T17:58:47+00:00</lastmod>
-
-    <priority>0.80</priority>
+    <priority>0.9</priority>
 
   </url>
 
 
   -<url>
 
-    <loc>https://www.sciaxe.it/Categorie/Timbri-datari.html</loc>
+    <loc>https://sciaxe.it/categorie/block-notes-personalizzati-a-colori.aspx</loc>
 
-    <lastmod>2019-03-20T17:58:47+00:00</lastmod>
+    <lastmod>2019-09-04</lastmod>
 
-    <priority>0.80</priority>
+    <changefreq>daily</changefreq>
 
-  </url>
-
-
-  -<url>
-
-    <loc>https://www.sciaxe.it/chi-siamo-sciaxe.html</loc>
-
-    <lastmod>2019-03-20T17:57:51+00:00</lastmod>
-
-    <priority>0.80</priority>
+    <priority>0.9</priority>
 
   </url>
 
 
   -<url>
 
-    <loc>https://www.sciaxe.it/dove-siamo-sciaxe.html</loc>
+    <loc>https://sciaxe.it/categorie/penne-personalizzate.aspx</loc>
 
-    <lastmod>2019-03-20T17:57:52+00:00</lastmod>
+    <lastmod>2019-09-04</lastmod>
 
-    <priority>0.80</priority>
+    <changefreq>daily</changefreq>
 
-  </url>
-
-
-  -<url>
-
-    <loc>https://www.sciaxe.it/contatti-sciaxe.aspx</loc>
-
-    <lastmod>2019-03-20T18:08:06+00:00</lastmod>
-
-    <priority>0.80</priority>
+    <priority>0.9</priority>
 
   </url>
 
 
   -<url>
 
-    <loc>https://www.sciaxe.it/Faq-Domande-frequenti.html</loc>
+    <loc>https://sciaxe.it/index.aspx</loc>
 
-    <lastmod>2019-03-20T17:57:52+00:00</lastmod>
+    <lastmod>2019-09-04</lastmod>
 
-    <priority>0.80</priority>
+    <changefreq>daily</changefreq>
 
-  </url>
-
-
-  -<url>
-
-    <loc>https://www.sciaxe.it/Informativa-Policy.html</loc>
-
-    <lastmod>2019-03-20T17:57:52+00:00</lastmod>
-
-    <priority>0.80</priority>
+    <priority>0.9</priority>
 
   </url>
 
 
   -<url>
 
-    <loc>https://www.sciaxe.it/Categorie/Quale-taglia-ordinare-per-abbigliamento-da-lavoro.html</loc>
+    <loc>https://sciaxe.it/categorie/agende-2020-personalizzate.aspx</loc>
 
-    <lastmod>2019-03-20T17:58:47+00:00</lastmod>
+    <lastmod>2019-09-04</lastmod>
 
-    <priority>0.80</priority>
+    <changefreq>daily</changefreq>
 
-  </url>
-
-
-  -<url>
-
-    <loc>https://www.sciaxe.it/index.html</loc>
-
-    <lastmod>2019-03-20T17:57:52+00:00</lastmod>
-
-    <priority>0.64</priority>
+    <priority>0.9</priority>
 
   </url>
 
 
   -<url>
 
-    <loc>https://www.sciaxe.it/Categorie/Portachiavi-personalizzati.html</loc>
+    <loc>https://sciaxe.it/categorie/braccialetti-personalizzati.aspx</loc>
 
-    <lastmod>2019-03-20T17:58:47+00:00</lastmod>
+    <lastmod>2019-09-04</lastmod>
 
-    <priority>0.64</priority>
+    <changefreq>daily</changefreq>
+
+    <priority>0.9</priority>
 
   </url>
 
 
   -<url>
 
-    <loc>https://www.sciaxe.it/Categorie/Gadget-personalizzati.html</loc>
+    <loc>https://sciaxe.it/categorie/calendari-2020-personalizzati.aspx</loc>
 
-    <lastmod>2018-10-23T06:00:31+00:00</lastmod>
+    <lastmod>2019-09-04</lastmod>
 
-    <priority>0.64</priority>
+    <changefreq>daily</changefreq>
+
+    <priority>0.9</priority>
+
+  </url>
+
+
+  -<url>
+
+    <loc>https://sciaxe.it/categorie/lanyard-personalizzati.aspx</loc>
+
+    <lastmod>2019-09-04</lastmod>
+
+    <changefreq>daily</changefreq>
+
+    <priority>0.9</priority>
+
+  </url>
+
+
+  -<url>
+
+    <loc>https://sciaxe.it/categorie/portachiavi-personalizzati.aspx</loc>
+
+    <lastmod>2019-09-04</lastmod>
+
+    <changefreq>daily</changefreq>
+
+    <priority>0.9</priority>
+
+  </url>
+
+
+  -<url>
+
+    <loc>https://sciaxe.it/chi-siamo-sciaxe.aspx</loc>
+
+    <lastmod>2019-09-04</lastmod>
+
+    <changefreq>daily</changefreq>
+
+    <priority>0.9</priority>
+
+  </url>
+
+
+  -<url>
+
+    <loc>https://sciaxe.it/dove-siamo-sciaxe.aspx</loc>
+
+    <lastmod>2019-09-04</lastmod>
+
+    <changefreq>daily</changefreq>
+
+    <priority>0.9</priority>
+
+  </url>
+
+
+  -<url>
+
+    <loc>https://sciaxe.it/contatti-sciaxe.aspx</loc>
+
+    <lastmod>2019-09-04</lastmod>
+
+    <changefreq>daily</changefreq>
+
+    <priority>0.9</priority>
+
+  </url>
+
+
+  -<url>
+
+    <loc>https://sciaxe.it/informativa-policy.aspx</loc>
+
+    <lastmod>2019-09-04</lastmod>
+
+    <changefreq>daily</changefreq>
+
+    <priority>0.9</priority>
+
+  </url>
+
+
+  -<url>
+
+    <loc>https://sciaxe.it/faq-domande-frequenti.aspx</loc>
+
+    <lastmod>2019-09-04</lastmod>
+
+    <changefreq>daily</changefreq>
+
+    <priority>0.9</priority>
+
+  </url>
+
+
+  -<url>
+
+    <loc>https://sciaxe.it/index.html</loc>
+
+    <lastmod>2019-09-04</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>0.8</priority>
+
+  </url>
+
+
+  -<url>
+
+    <loc>https://sciaxe.it/categorie/quale-taglia-ordinare-per-abbigliamento-da-lavoro.html</loc>
+
+    <lastmod>2019-09-04</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>0.8</priority>
+
+  </url>
+
+
+  -<url>
+
+    <loc>https://sciaxe.it/informativa-policy.html</loc>
+
+    <lastmod>2019-09-04</lastmod>
+
+    <changefreq>weekly</changefreq>
+
+    <priority>0.8</priority>
 
   </url>
 
