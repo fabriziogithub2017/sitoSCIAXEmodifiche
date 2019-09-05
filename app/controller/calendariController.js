@@ -6,7 +6,7 @@
         document.cookie = oggetto;
         //location.href = 'MandaEmail.aspx';
         location.href = '../Categorie/MandaEmail.aspx';
-    }
+    },
 
     init();
 
@@ -24,7 +24,8 @@
             'f.to calendario cm 29x47 ca',
             'f.to testata cm 29x9 ca',
             'imballo pz. 100'],
-        'prezzo': 'da € 0,70 cad. +iva'
+        'prezzo': 'da € 0,70 cad. +iva',
+        'imgSrc1': '../../jmg/jmgCalendari/prezzi-OLANDESI.jpg' 
     },
 
     {
@@ -37,7 +38,8 @@
             'f.to calendario cm 14,3 x 47',
             'f.to testata cm 14 x 9',
             'imballo pz. 100'],
-        'prezzo': 'da € 0,60 cad. +iva'
+        'prezzo': 'da € 0,60 cad. +iva',
+        'imgSrc1': '../../jmg/jmgCalendari/prezzi-OLANDESI.jpg'
         },
 
         {
@@ -50,27 +52,23 @@
                 'f.to calendario cm 29x47 ca',
                 'f.to testata cm 29x9 ca',
                 'imballo pz. 100'],
-            'prezzo': 'da € 0,65 cad. +iva'
+            'prezzo': 'da € 0,65 cad. +iva',
+            'imgSrc1': '../../jmg/jmgCalendari/prezzi-OLANDESI.jpg'
         },
 
     {
-        'titolo': 'Calendario da tavolo personalizzato', 'imgSrc': '../../jmg/jmgCalendari/calendari-da-tavolo.jpg', 'imgAlt': 'calendario da tavolo personalizzati',
+        'titolo': 'Calendario da tavolo', 'imgSrc': '../../jmg/jmgCalendari/calendari-da-tavolo.jpg', 'imgAlt': 'calendario da tavolo personalizzati',
         'caratteristiche': [
             'personalizzato a 1 colore a scelta',
-            'spiralato da tavolo',
-            'mensile da 13 fogli',
+            'mensile da 13 fogli con spirale',
             'carta patinata 100 gr.',
-            'supporto cartoncino bianco 450 gr.',
             'f.to calendario cm 16 x 14',
-            'f.to piedino cm 16 x 3,5',
+            'f. piedino cm 16 x 3,5 cartoncino 450 gr.',
             'imballo pz. 100'],
-        'prezzo': 'da € 0,80 cad. +iva'
-    },
-
+        'prezzo': 'da € 0,80 cad. +iva',
+        'imgSrc1': '../../jmg/jmgCalendari/prezzi-OLANDESI.jpg'
+    }
 
 
     ]
-
-
-
 })

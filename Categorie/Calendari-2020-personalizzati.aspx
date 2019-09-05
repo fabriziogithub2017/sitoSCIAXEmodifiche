@@ -73,24 +73,22 @@
                             </div>
                             <div class="box2">
                                 <h2>{{y.titolo}}</h2>
+                                <h3>{{y.prezzo}}</h3>
                                 <ul>
                                     <li ng-repeat="x in y.caratteristiche">{{x}}</li>
-                                </ul>
-                                <h3>{{y.prezzo}}</h3>
+                                </ul>                                
+                                <img src="{{y.imgSrc1}}" />
                             </div>
                             <div class="box3">
                                 <!--<a href=http://calendaritorino.it target=”_blank”>
-            <div class="buttonCompra">Compra</div>
-        </a>-->
+                                <div class="buttonCompra">Compra</div>
+                                </a>-->
                                 <button class="buttonEmail" type="button" data-ng-click="vm.cliccamiMail(y.titolo)">
                                     Vuoi altre Informazioni?
                                 <br />
                                     clicca e manda Email
                                 </button>
                             </div>
-                            <!--<a href=http://calendaritorino.it target=”_blank”>
-                            <div class="box4">Come scegliere la taglia</div>
-                        </a>-->
                         </div>
                     </div>
                 </div>
