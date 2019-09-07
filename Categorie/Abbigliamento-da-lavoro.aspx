@@ -19,13 +19,13 @@
 
 <asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder3" runat="Server">
     <body ng-app="myapp" ng-controller="abbigliamentoController as vm">
-       
-            <!-- Breadcrumb e schema org Web page -->
-            <ol class="breadcrumb">
-                <li><a href="../index.aspx">Home</a></li>
-                <li class="active"><b>Abbigliamento da lavoro</b></li>
-            </ol>
-            <script type="application/ld+json">
+
+        <!-- Breadcrumb e schema org Web page -->
+        <ol class="breadcrumb">
+            <li><a href="../index.aspx">Home</a></li>
+            <li class="active"><b>Abbigliamento da lavoro</b></li>
+        </ol>
+        <script type="application/ld+json">
             {
             "@context": "http://schema.org",
             "@type": "WebPage",
@@ -33,10 +33,10 @@
             "image":"../logo-sciaxe.png",
             "name": "logo aziendale sciax'è snc"
             }
-            </script>
+        </script>
 
-            <!-- Schema.org Product -->
-            <script type="application/ld+json">
+        <!-- Schema.org Product -->
+        <script type="application/ld+json">
             {
             "@context": "http://schema.org/",
             "@type": "Product",
@@ -55,8 +55,8 @@
             "priceCurrency": "EUR"
             }
             }
-            </script>
-        
+        </script>
+
 
         <div class="container">
             <div class="row">
@@ -81,7 +81,7 @@
                                 <h3>{{y.prezzo}}</h3>
                                 <ul>
                                     <li ng-repeat="x in y.caratteristiche">{{x}}</li>
-                                </ul>                                
+                                </ul>
                             </div>
                             <div class="box3">
                                 <!--<a href=http://calendaritorino.it target=”_blank”>
@@ -92,10 +92,10 @@
                                 <br />
                                     clicca e manda Email
                                 </button>
+                                <a href="../Categorie/Quale-taglia-ordinare.aspx" <!--target="_blank"-->
+                                    <div class="sceglieretaglia">Come scegliere la taglia</div>
+                                </a>
                             </div>
-                            <a href="../Categorie/Quale-taglia-ordinare-per-abbigliamento-da-lavoro.html" target="”_blank”">
-                                <div class="sceglieretaglia">Come scegliere la taglia</div>
-                            </a>
                         </div>
                     </div>
                 </div>
