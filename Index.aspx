@@ -17,8 +17,6 @@
 
         <header>
             <script type="application/ld+json">
-            <!-- Schema.org Organization-->
-            <%--<script type="application/ld+json">--%>
             {
             "@context": "http://schema.org",
             "@type": "Organization",
