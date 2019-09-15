@@ -51,8 +51,11 @@
             },
             "offers": {
             "@type": "Offer",
-            "Price": "4,50",
-            "priceCurrency": "EUR"
+             "url": "https://sciaxe.it/jmg/jmgAbbigliamento/gilet-classe2.jpg",
+            "availability": "http://schema.org/InStock",
+            "Price": "4.50",
+            "priceCurrency": "EUR",
+            "priceValidUntil": "2019-09-15"
             }
             }
         </script>

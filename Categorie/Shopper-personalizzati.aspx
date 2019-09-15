@@ -52,7 +52,7 @@
             },
             "offers": {
             "@type": "Offer",
-            "Price": "o.90",
+            "Price": "0.90",
             "priceCurrency": "EUR"
             }
             }

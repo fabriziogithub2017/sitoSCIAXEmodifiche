@@ -52,6 +52,7 @@
             },
             "offers": {
             "@type": "Offer",
+            "availability": "http://schema.org/InStock",
             "Price": "5.00",
             "priceCurrency": "EUR"
             }
