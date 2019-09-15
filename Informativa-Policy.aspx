@@ -62,14 +62,14 @@
                         <a href="https://tools.google.com/dlpage/gaoptout?hl=it">Disattivazione</a>
                     </li>
                     <li>
-                        <strong>Google Maps,</strong>utilizzato dall' utente per mostrare dove siamo<br>
-                        https://google.it/intl/it/policies/privacy/
+                        utilizzato dall' utente per mostrare dove siamo<br>
+                        <a href="https://google.it/intl/it/policies/privacy/">Google Maps</a>
                     </li>
                     <li>
-                        <strong>Facebook,</strong>servizio esterno che può fare uso dei propri cookie (cookie di terze parti):<br />
+                        servizio esterno che può fare uso dei propri cookie (cookie di terze parti):<br />
                         utilizzato dall'utente per cliccare su "mi piace" nella nostra pagina
                         <br>
-                        https://facebook.com/policies/cookies/
+                        <a href="https://facebook.com/policies/cookies/">Facebook</a>
                     </li>
                 </ul>
                 <p>
