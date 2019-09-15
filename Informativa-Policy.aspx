@@ -1,19 +1,19 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Informativa-Policy.aspx.cs" Inherits="Informativa_Policy" %>
 
-<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
     <title>Informativa Policy - Sciax'è</title>
     <meta name="description" content="Informativa policy e privacy del sito sciaxe.it">
     <link href="css/Informativa-Policy.css" rel="stylesheet" />
 </asp:Content>
 
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <!-- Breadcrumb e schema org Web page -->
-        <ol class="breadcrumb">
-            <li><a href="../Index.aspx">Home</a></li>
-            <li class="active"><b>Cookie Policy</b></li>
-        </ol>
+    <ol class="breadcrumb">
+        <li><a href="../Index.aspx">Home</a></li>
+        <li class="active"><b>Cookie Policy</b></li>
+    </ol>
 
-        <script type="application/ld+json">
+    <script type="application/ld+json">
             {
             "@context": "http://schema.org",
             "@type": "WebPage",
@@ -21,9 +21,9 @@
             "image":"../logo-sciaxe.png",
             "name": "logo aziendale sciax'è snc"
             }
-        </script>
+    </script>
 
-        <div class="container">
+    <div class="container">
         <div class="container1">
             <div class="row">
                 <h2>Informativa COOKIE e PRIVACY POLICY</h2>
@@ -41,17 +41,25 @@
                 </p>
                 <ul>
                     <li>
-                        <strong>Questo sito utilizza cookie tecnici</strong><br> necessari alla normale navigazione web
+                        <strong>Questo sito utilizza cookie tecnici</strong><br>
+                        necessari alla normale navigazione web
                         e i seguenti servizi esterni che possono fare uso di propri cookie (cookie di terze parti).
                     </li>
                     <li>
                         <strong>Google Analytics,</strong>utilizzato da Google per avere le statistiche dei visitatori<br>
                         Le statistiche sono attivate in forma anonima;<br />
-                        https://google.com/analytics <br />
-                        Accesso alle informazioni fornite da terzi:<br />
-                        Privacy Policy: http://www.google.com/policies/privacy/ <br />
-                        Cookie Policy: https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage <br />
-                        Disattivazione: https://tools.google.com/dlpage/gaoptout?hl=it
+                        https://google.com/analytics
+                        <br />
+                    </li>
+                    <li>Accesso alle informazioni fornite da terzi:<br />
+                        <a href="http://www.google.com/policies/privacy/">Privacy Policy</a>
+                        <br />
+                    </li>
+                    <li><a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage">Cookie Policy</a>
+                        <br />
+                    </li>
+                    <li>
+                        <a href="https://tools.google.com/dlpage/gaoptout?hl=it">Disattivazione</a>
                     </li>
                     <li>
                         <strong>Google Maps,</strong>utilizzato dall' utente per mostrare dove siamo<br>
@@ -59,8 +67,9 @@
                     </li>
                     <li>
                         <strong>Facebook,</strong>servizio esterno che può fare uso dei propri cookie (cookie di terze parti):<br />
-                        utilizzato dall'utente per cliccare su "mi piace" nella nostra pagina <br>
-                        https://www.facebook.com/policies/cookies/
+                        utilizzato dall'utente per cliccare su "mi piace" nella nostra pagina
+                        <br>
+                        https://facebook.com/policies/cookies/
                     </li>
                 </ul>
                 <p>
@@ -77,16 +86,19 @@
                 </p>
                 <ul>
                     <li>
-                        <strong>Internet Explorer:</strong> http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies <br />
+                        <a href="//windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies">Internet Explorer</a>
+                        <br />
                     </li>
                     <li>
-                        <strong>Google Chrome:</strong> https://support.google.com/accounts/answer/61416?hl=it <br />
+                        <a href="//support.google.com/accounts/answer/61416?hl=it">Google Chrome</a>
+                        <br />
                     </li>
                     <li>
-                        <strong>Mozilla Firefox:</strong> http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies <br />
+                        <a href="//support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies">Mozilla Firefox</a>
+                        <br />
                     </li>
                     <li>
-                        <strong>Safari:</strong> http://www.apple.com/legal/privacy/
+                        <a href=" http://www.apple.com/legal/privacy/">Safari</a>
                     </li>
                 </ul>
                 <p>Se usate un browser web differente da quelli citati  consultate la documentazione dello stesso per sapere come eliminare i cookie.</p>
@@ -103,39 +115,33 @@
                     o richiesta di verifica o cancellazione dati.
                 </p>
                 <ul>
-                    <li>
-                        Chi raccoglie i dati:<br />
+                    <li>Chi raccoglie i dati:<br />
                         Tutte le mail, o i dati forniti volontariamente dai visitatori arrivano esclusivamente a <em>Sciax'è snc</em>
                     </li>
                 </ul>
                 <ul>
-                    <li>
-                        Responsabile della conservazione<br />
+                    <li>Responsabile della conservazione<br />
                         Sciascia Fabrizio –&nbsp; fabrizio@sciaxe.it
                     </li>
                 </ul>
                 <ul>
-                    <li>
-                        Quali dati sono raccolti:<br />
+                    <li>Quali dati sono raccolti:<br />
                         - Mail spedite dalla pagina del sito contatti o nella pagine dei prodotti per avere delle informazioni.<br />
                         - Indirizzi IP che consentono di fare statistiche di navigazione o di bloccare accessi indesiderati.
                     </li>
                 </ul>
                 <ul>
-                    <li>
-                        Come sono raccolti<br />
+                    <li>Come sono raccolti<br />
                         I dati raccolti sono ospitati internamente nella nostra azienda nel pieno rispetto delle norme europee sulla privacy.<br>
                     </li>
                 </ul>
                 <ul>
-                    <li>
-                        Perché sono raccolti<br />
+                    <li>Perché sono raccolti<br />
                         Esclusivamente per poter comunicare e rispondere con chi visita il sito internet.
                     </li>
                 </ul>
                 <ul>
-                    <li>
-                        Condivisione dei dati<br />
+                    <li>Condivisione dei dati<br />
                         <strong>Nessun dato da noi ricevuto viene divulgato a terzi e non sarà utilizzato per fini diversi da quelli menzionati.</strong>
                     </li>
                 </ul>
