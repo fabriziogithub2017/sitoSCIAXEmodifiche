@@ -58,7 +58,7 @@
         },
 
         {
-            'ahref': '../Categorie/Calendari-2019-personalizzati.aspx',
+            'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese.jpg', 'imgAlt': 'calendario olandese personalizzato',
             'prezzoVetrina': 'da € 0,650',
             'titolo': 'Calendario tipo olandese',
@@ -74,7 +74,7 @@
         },
 
         {
-            'ahref': '../Categorie/Calendari-2019-personalizzati.aspx',
+            'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese-slim-a-colori.jpg', 'imgAlt': 'calendario olandese a colori slim',
             'prezzoVetrina': 'da € 0,60',
             'titolo': 'Calendario olandese a colori slim',
@@ -82,7 +82,7 @@
         },
 
         {
-            'ahref': '../Categorie/Agende-2019-personalizzate.aspx',
+            'ahref': '../Categorie/Agende-2020-personalizzate.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/AGENDA 2019 15 x 21 giornaliera.jpg', 'imgAlt': 'agenda giornaliera f.to 15 x 21',
             'prezzoVetrina': 'da € 2,90',
             'titolo': 'Agende giornaliera 2019',
@@ -90,7 +90,7 @@
         },
 
         {
-            'ahref': '../Categorie/Calendari-2019-personalizzati.aspx',
+            'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/calendario da tavolo 2019.jpg', 'imgAlt': 'calendario da tavolo 2019',
             'prezzoVetrina': 'da € 0,80',
             'titolo': 'Calendario da tavolo personalizato',
@@ -106,7 +106,7 @@
         },
 
         {
-            'ahref': '../Categorie/Agende-2019-personalizzate.aspx',
+            'ahref': '../Categorie/Agende-2020-personalizzate.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/notes-a-righe.jpg', 'imgAlt': 'notes a rghe f.to 9 x 14',
             'prezzoVetrina': 'da € 1,50',
             'titolo': 'Notes a righe',
