@@ -29,7 +29,7 @@
     },
 
     {
-        'titolo': 'Calendario olandese slim', 'imgSrc': '../../jmg/jmgCalendari/calendario-olandesino.jpg', 'imgAlt': 'calendario olandase slim con numerazione a colori',
+        'titolo': 'Calendario olandese slim', 'imgSrc': '../../jmg/jmgCalendari/calendario-olandese-stretto.jpg', 'imgAlt': 'calendario olandase slim con numerazione a colori',
         'caratteristiche': [
             'personalizzato a 1 colore a scelta',
             'mensile 12 fogli',
@@ -57,7 +57,7 @@
         },
 
     {
-        'titolo': 'Calendario da tavolo', 'imgSrc': '../../jmg/jmgCalendari/calendari-da-tavolo.jpg', 'imgAlt': 'calendario da tavolo personalizzati',
+        'titolo': 'Calendario da tavolo', 'imgSrc': '../../jmg/jmgCalendari/calendario-da-tavolo.jpg', 'imgAlt': 'calendario da tavolo personalizzati',
         'caratteristiche': [
             'personalizzato a 1 colore a scelta',
             'mensile da 13 fogli con spirale',
