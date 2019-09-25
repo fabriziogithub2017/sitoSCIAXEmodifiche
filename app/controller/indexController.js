@@ -35,7 +35,7 @@
 
         {
             'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/calendario olandese a colori.jpg', 'imgAlt': 'calendario olandese a colori personalizzato',
+            'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese-a-colori.jpg', 'imgAlt': 'calendario olandese a colori personalizzato',
             'prezzoVetrina': 'da € 0,70',
             'titolo': 'Calendario tipo olandese a colori',
             'descrizione': 'Descrizione: Calendario mensile tipo olandese a colori, 12 pagine, F.to cm 29 x 47 cm., Area di stampa: 28 x 8 cm'
@@ -51,7 +51,7 @@
 
         {
             'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/gilet classe2.jpg', 'imgAlt': 'gilet classe 2',
+            'imgSrc': '../../jmg/immaginiVetrina/gilet-classe2.jpg', 'imgAlt': 'gilet classe 2',
             'prezzoVetrina': 'da € 4,50',
             'titolo': 'Gilet alta visibilità classe 2',
             'descrizione': 'Tessuto poliestere colore arancio e giallo, taglie uniche, bande riflettenti 3M Scotchlite.Personalizzabili davanti e dietro'
@@ -91,7 +91,7 @@
 
         {
             'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/calendario da tavolo 2019.jpg', 'imgAlt': 'calendario da tavolo 2019',
+            'imgSrc': '../../jmg/immaginiVetrina/calendario-da-tavolo-2020.jpg', 'imgAlt': 'calendario da tavolo 2019',
             'prezzoVetrina': 'da € 0,80',
             'titolo': 'Calendario da tavolo personalizato',
             'descrizione': 'Descrizione: Calendario da tavolo, 13 pagine, F.to cm 16 x 14,5 cm., Area di stampa: 15 x 2,5 cm. fronte e retro'
