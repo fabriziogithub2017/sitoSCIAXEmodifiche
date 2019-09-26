@@ -89,6 +89,7 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Prodotti <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="../Categorie/Abbigliamento-da-lavoro.aspx">Abbigliamento</a></li>
+                                <li><a href="../Categorie/Magliette-personalizzate.aspx">Magliette</a></li>
                                 <li><a href="../Categorie/Agende-2020-personalizzate.aspx">Agende</a></li>
                                 <li><a href="../Categorie/Block-Notes-personalizzati-a-colori.aspx">Block notes</a></li>
                                 <li><a href="../Categorie/Borse-Zaini-personalizzati.aspx">Borse e zaini</a></li>
@@ -141,6 +142,7 @@
                         <h3>Prodotti</h3>
                         <ul class="list-group">
                             <li><a href="../Categorie/Abbigliamento-da-lavoro.aspx">Abbigliamento</a></li>
+                            <li><a href="../Categorie/Magliette-personalizzate.aspx">Magliette</a></li>
                             <li><a href="../Categorie/Agende-2020-personalizzate.aspx">Agende</a></li>
                             <li><a href="../Categorie/Block-Notes-personalizzati-a-colori.aspx">Block notes</a></li>
                             <li><a href="../Categorie/Borse-Zaini-personalizzati.aspx">Borse e zaini</a></li>
