@@ -17,7 +17,7 @@ body {
 .navbar-inverse {
     background-color: #171515;
     border-color: #171515;
-    opacity: 0.8;
+    /*opacity: 0.8; per rendere la NAVBAR trasparente*/
 }
 
 .navbar-brand {
@@ -44,7 +44,7 @@ body {
 }
 
 /*modifica padding del logo nella navbar*/
-.logo {
+    .logo {
     padding-left: 10px;
 }
 
@@ -307,7 +307,6 @@ a {
     text-decoration: none;
     font-size: 13px;
 }
-
 
 @media screen and (max-width: 1200px) {
     .col-lg-1 {

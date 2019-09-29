@@ -9,7 +9,7 @@
     <!--Main scripts-->
     <script src="../app/view/assets/lib/angular/angular.min.js"></script>
     <!--Controllers-->
-    <script src="../app/controller/abbigliamentoController.js"></script>
+    <script src="../app/controller/maglietteController.js"></script>
 </asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" runat="Server">
@@ -18,7 +18,7 @@
 </asp:Content>
 
 <asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder3" runat="Server">
-    <body ng-app="myapp" ng-controller="abbigliamentoController as vm">
+    <body ng-app="myapp" ng-controller="maglietteController as vm">
 
         <!-- Breadcrumb e schema org Web page -->
         <ol class="breadcrumb">
@@ -67,9 +67,8 @@
                     <h1>Magliette personalizzate</h1>
                     <p class="lead">
                         Una t-shirt personalizzata può avere diversi scopi e utilizzi. Le magliette sono un mezzo
-                        pubblicitario per un’attività perché indossate dai clienti come gadget, o dai propri dipendenti
-                        in diverse situazioni. Si è visibili non solo nei luoghi lavorativi, ma anche in luoghi pubblici
-                        e privati.
+                        pubblicitario per un’attività, perché sono indossate dai clienti come gadget, o dai propri
+                        dipendenti. Si è visibili non solo nei luoghi lavorativi, ma anche in luoghi pubblici e privati.
                     </p>
                 </div>
                 <div class="row">
@@ -84,6 +83,7 @@
                                 <ul>
                                     <li ng-repeat="x in y.caratteristiche">{{x}}</li>
                                 </ul>
+                                <img src="{{y.imgSrc1}}" />
                             </div>
                             <div class="box3">
                                 <!--<a href=http://calendaritorino.it target=”_blank”>

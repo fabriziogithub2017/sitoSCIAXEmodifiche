@@ -57,7 +57,7 @@
         <div class="container">
             <div class="row">
                 <div class="shadow1 col-md-12">
-                    <h1>Calendario personalizzato</h1>
+                    <h1>Calendari personalizzati</h1>
                     <p class="lead">
                         I calendari personalizzati, olandesi, illustrati, da tavolo a spirale e trittici sono tra i regali aziendali più apprezzati
                     dai clienti perchè sono utili. Gli olandesi e da tavolo vengono usati per scrivere appunti, ricorrenze ecc... Gli illustrati
