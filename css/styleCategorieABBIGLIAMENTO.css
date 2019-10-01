@@ -19,7 +19,7 @@
     background-color: white;
     float: right;
     position: relative;
-    top: -18px;
+    top: -16px;
     left: 0;
     right: 0px;
     bottom: 0;
@@ -160,17 +160,31 @@ ul {
         height: 550px;
     }
 
-    .thumbnail img {
-        display: block;
-        width: 101%;
-        max-height: 106%;
+        .thumbnail img {
+            display: block;
+            width: 101%;
+            max-height: 106%;
+        }
+
+    .box1 img {
+        margin: 0px 0px 0px 4px;
     }
 
     .box2 {
         height: 65%;
         width: 37%;
         left: -5px;
+        position: relative;
+        top: -15px;
+        left: 0;
+        right: 0px;
+        bottom: 0;
     }
+
+        .box2 img {
+            height: 60%;
+            width: 97%;
+        }
 }
 
 @media screen and (max-width: 767px) {
@@ -182,30 +196,39 @@ ul {
     .buttonEmail {
         width: 70%;
         height: 40%;
-        margin: 53px 0px 0px 50px;
+        margin: 64px 0px 0px 50px;
     }
 
     .sceglieretaglia {
         width: 70%;
         height: 20%;
-        margin: -69px 72px 0px 0px
+        margin: -73px 65px 8px 4px;
     }
 
     .thumbnail img {
         display: block;
         width: 76%;
         max-height: 107%;
-        margin: 0px 0px 0px 63px;
+        margin: 0px 0px 0px 18px;
     }
 
     ul {
         font-size: 14px;
     }
 
-    .box2 img ul {
-        height: 51%;
-        margin: 0 0 0 37px;
+    .box1 img {
+        margin: 0px 0px 0px 42px;
     }
+
+    .box2 {
+        position: relative;
+        top: -14px;
+    }
+
+        .box2 img {
+            height: 85%;
+            margin: 0 0 0 23px;
+        }
 }
 
 @media screen and (max-width: 540px) {
@@ -226,17 +249,26 @@ ul {
         margin: -66px 65px 0px 0px;
     }
 
-    .thumbnail img {
-        display: block;
-        width: 98%;
-        max-height: 107%;
-        margin: 0px 0px 0px 2px;
+    .thumbnail {
+        height: 580px;
     }
 
-    .box2 img {
-        height: 50%;
-        margin: 0 0 0 0px;
+        .thumbnail img {
+            display: block;
+            width: 98%;
+            max-height: 107%;
+            margin: 0px 0px 0px 2px;
+        }
+
+    .box2 {
+        position: relative;
+        top: -14px;
     }
+
+        .box2 img {
+            height: 68%;
+            margin: 0 0 0 0px;
+        }
 }
 
 @media screen and (max-width: 400px) {
@@ -296,7 +328,7 @@ ul {
     }
 
         .box2 img {
-            height: 43%;
+            height: 63%;
             margin: 0 0 0 0px;
         }
 }

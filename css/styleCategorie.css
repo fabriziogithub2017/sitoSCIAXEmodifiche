@@ -175,7 +175,7 @@ ul {
         display: block;
         width: 76%;
         max-height: 107%;
-        margin: 0px 0px 0px 63px;
+        margin: 0px 0px 0px 31px;
     }
 
     ul {
@@ -214,7 +214,7 @@ ul {
     }
 
     .box2 img {
-        height: 50%;
+        height: 48%;
         margin: 0 0 0 0px;
     }
 }
