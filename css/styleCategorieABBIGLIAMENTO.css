@@ -1,0 +1,302 @@
+﻿.box {
+    width: 60%;
+    height: 3%;
+    background-color: white;
+    float: left;
+    text-align: center;
+}
+
+.box1 {
+    width: 60%;
+    height: 76%;
+    background-color: white;
+    float: left;
+}
+
+.box2 {
+    width: 40%;
+    height: 96%;
+    background-color: white;
+    float: right;
+    position: relative;
+    top: -18px;
+    left: 0;
+    right: 0px;
+    bottom: 0;
+}
+
+    .box2 img {
+        width: 98%;
+        height: 48%;
+        position: relative;
+        top: 0px;
+        left: 2px;
+        right: 0px;
+        bottom: 0px;
+    }
+
+.box3 {
+    width: 60%;
+    height: 20%;
+    /*background-color: white;*/
+    /*float: left;*/
+}
+
+.sceglieretaglia {
+    width: 80%;
+    height: 22%;
+    background-color: yellow;
+    float: right;
+    margin: -75px 27px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: medium;
+}
+
+.buttonCompra {
+    color: white;
+    margin: 5px 0px 0px 76px;
+    border-radius: 4px;
+    text-align: center;
+    width: 80%;
+    height: 40%;
+    background-color: red;
+    padding: 5px;
+    font-size: 20px;
+    width: 50%;
+    height: 40%;
+}
+
+.buttonEmail {
+    width: 80%;
+    height: 45%;
+    background-color: cornflowerblue;
+    color: white;
+    margin: 45px 0px 0px 15px;
+    padding: 0px 0px 0px 0px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: bold;
+    color: green;
+    margin: 0px 0px 0px 6px;
+}
+
+h3 {
+    font-size: 14px;
+    color: red;
+    margin: 0px 0px 0px 0px;
+    font-weight: bold;
+}
+
+.thumbnail {
+    width: 100%;
+    height: 555px;
+    background-color: white;
+    display: block;
+}
+
+img {
+    vertical-align: middle;
+}
+
+ul {
+    padding-left: 23px;
+    font-size: 12px;
+    margin-bottom: 2px;
+}
+
+
+@media screen and (max-width: 1199px) {
+
+    .buttonCompra {
+        margin: 6px 0px 0px 59px;
+    }
+
+    .buttonEmail {
+        margin: 49px 0px 0px 19px;
+    }
+
+    .sceglieretaglia {
+        margin: -76px 37px 0px 0px;
+        font-size: 108%;
+    }
+
+    .thumbnail img {
+        display: block;
+        width: 98%;
+        max-height: 107%;
+    }
+
+    .thumbnail {
+        height: 620px;
+    }
+
+    .box2 img {
+        height: 55%;
+    }
+}
+
+@media screen and (max-width: 991px) /*, (max-width: 630px) and (max-width: 699px) and (min-width: 520px)*/
+{
+
+    h2 {
+        font-size: medium;
+    }
+
+    .buttonEmail {
+        margin: 38px 0px 0px 19px;
+    }
+
+    .sceglieretaglia {
+        margin: -77px 24px 0px 0px;
+    }
+
+    .thumbnail {
+        height: 550px;
+    }
+
+    .thumbnail img {
+        display: block;
+        width: 101%;
+        max-height: 106%;
+    }
+
+    .box2 {
+        height: 65%;
+        width: 37%;
+        left: -5px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+    .buttonCompra {
+        margin: 6px 0px 0px 97px;
+    }
+
+    .buttonEmail {
+        width: 70%;
+        height: 40%;
+        margin: 53px 0px 0px 50px;
+    }
+
+    .sceglieretaglia {
+        width: 70%;
+        height: 20%;
+        margin: -69px 72px 0px 0px
+    }
+
+    .thumbnail img {
+        display: block;
+        width: 76%;
+        max-height: 107%;
+        margin: 0px 0px 0px 63px;
+    }
+
+    ul {
+        font-size: 14px;
+    }
+
+    .box2 img ul {
+        height: 51%;
+        margin: 0 0 0 37px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+
+    .buttonCompra {
+        margin: 6px 0px 0px 97px;
+    }
+
+    .buttonEmail {
+        width: 70%;
+        height: 40%;
+        margin: 53px 0px 0px 16px;
+    }
+
+    .sceglieretaglia {
+        width: 70%;
+        height: 20%;
+        margin: -66px 65px 0px 0px;
+    }
+
+    .thumbnail img {
+        display: block;
+        width: 98%;
+        max-height: 107%;
+        margin: 0px 0px 0px 2px;
+    }
+
+    .box2 img {
+        height: 50%;
+        margin: 0 0 0 0px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+    .buttonCompra {
+        margin: 6px 0px 0px 97px;
+    }
+
+    .buttonEmail {
+        width: 91%;
+        height: 50%;
+        margin: 30px 0px 0px 7px;
+    }
+
+    .sceglieretaglia {
+        width: 90%;
+        height: 21%;
+        margin: -75px 11px 0px 0px;
+    }
+
+    .thumbnail img {
+        display: block;
+        width: 98%;
+        max-height: 107%;
+        margin: 0px 0px 0px 2px;
+    }
+
+    .thumbnail {
+        height: 500px;
+    }
+
+    h2 {
+        font-size: 15px;
+    }
+
+    h3 {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    ul {
+        font-size: 11px;
+    }
+
+    .box {
+        margin: 5px 5px, 5px 5px;
+    }
+
+    .box1 {
+        position: relative;
+        top: 2px;
+    }
+
+    .box2 {
+        position: relative;
+        top: -12px;
+    }
+
+        .box2 img {
+            height: 43%;
+            margin: 0 0 0 0px;
+        }
+}

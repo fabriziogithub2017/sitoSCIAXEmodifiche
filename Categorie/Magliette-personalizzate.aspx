@@ -14,7 +14,7 @@
 
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" runat="Server">
     <!-- CSS personalizzato-->
-    <link href="../css/styleCategorie.css" rel="stylesheet" />
+    <link href="../css/styleCategorieABBIGLIAMENTO.css" rel="stylesheet" />
 </asp:Content>
 
 <asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder3" runat="Server">
@@ -60,7 +60,6 @@
             }
         </script>
 
-
         <div class="container">
             <div class="row">
                 <div class="shadow1 col-md-12">
@@ -74,11 +73,13 @@
                 <div class="row">
                     <div class="col-sm-6 col-lg-4 col-md-6" ng-repeat="y in vm.categoria">
                         <div class="thumbnail">
+                            <div class="box">
+                                <h2>{{y.titolo}}</h2><!--<h2 style="font-weight:bold; font-size:10px">{{y.titolo}}</h2>-->
+                            </div>
                             <div class="box1">
                                 <img src="{{y.imgSrc}}" alt="{{y.imgAlt}}" />
                             </div>
                             <div class="box2">
-                                <h2>{{y.titolo}}</h2>
                                 <h3>{{y.prezzo}}</h3>
                                 <ul>
                                     <li ng-repeat="x in y.caratteristiche">{{x}}</li>
@@ -94,7 +95,8 @@
                                 <br />
                                     clicca e manda Email
                                 </button>
-                                <a href="../Categorie/Quale-taglia-ordinare.aspx" <!--target="_blank"-->
+                                <a href="../Categorie/Quale-taglia-ordinare.aspx">
+                                    <!--target="_blank"-->
                                     <div class="sceglieretaglia">Come scegliere la taglia</div>
                                 </a>
                             </div>

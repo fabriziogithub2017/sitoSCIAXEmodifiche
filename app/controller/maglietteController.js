@@ -13,7 +13,7 @@
     function init() {
         console.log("Initialized");
     }
-    
+
     vm.categoria = [
         {
             'titolo': 'Magliette bianche adulto', 'imgSrc': '../../jmg/jmgMagliette/magliette-bianche-adulto.jpg', 'imgAlt': 'Magliette bianche unisex per adulto',
@@ -22,7 +22,8 @@
                 'girocollo a costina rinforzata',
                 'ribattitura doppio ago su collo, maniche',
                 'colore: bianco',
-                'taglie: S - M - L - XL - XXL - XXXL'],                
+                'taglie: S - M - L - XL - XXL - XXXL',
+                'multipli d 5 pz. x taglia'],
             'prezzo': 'da € 2,30 cad. +iva',
             'imgSrc1': '../../jmg/jmgMagliette/prezzi-MAGLIETTE-bianche.jpg'
         },
@@ -33,7 +34,8 @@
                 'girocollo a costina rinforzata',
                 'ribattitura doppio ago su collo, maniche',
                 'colore: bianco',
-                'taglie: 6 anni: XXXXS - 8/10 anni: XXXS - 12 anni: XXS - 14 anni: XS'],
+                'taglie: 6 anni: XXXXS - 8/10 anni: XXXS - 12 anni: XXS - 14 anni: XS',
+                'multipli d 5 pz. x taglia'],
             'prezzo': 'da € 2,30 cad. +iva',
             'imgSrc1': '../../jmg/jmgMagliette/prezzi-MAGLIETTE-bianche.jpg'
         },
@@ -44,7 +46,8 @@
                 'girocollo a costina',
                 'ribattitura doppio ago su collo, maniche',
                 'colori a scelta: giallo, rosa, rosso, verde, azzurro, nero, blu, royal, grigio, arancio',
-                'taglie: S - M - L - XL - XXL - XXXL'],
+                'taglie: S - M - L - XL - XXL - XXXL',
+                'multipli d 5 pz. x taglia / colore'],
             'prezzo': 'da € 2,70 cad. +iva',
             'imgSrc1': '../../jmg/jmgMagliette/prezzi-MAGLIETTE-colorate.jpg'
         },
@@ -55,7 +58,8 @@
                 'tessuto: 100% Cotone pettinato, 140 gr.',
                 'ribattitura doppio ago su collo, maniche',
                 'colori a scelta: giallo, rosa, rosso, verde, azzurro, nero, blu, royal, grigio, arancio',
-                'taglie: 6 anni: XXXXS - 8/10 anni: XXXS - 12 anni: XXS - 14 anni: XS'],
+                'taglie: 6 anni: XXXXS - 8/10 anni: XXXS - 12 anni: XXS - 14 anni: XS',
+                'multipli d 5 pz. x taglia / colore'],
             'prezzo': 'da € 2,70 cad. +iva',
             'imgSrc1': '../../jmg/jmgMagliette/prezzi-MAGLIETTE-colorate.jpg'
         },
