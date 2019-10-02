@@ -83,9 +83,9 @@
 
         {
             'ahref': '../Categorie/Agende-2020-personalizzate.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/AGENDA 2019 15 x 21 giornaliera.jpg', 'imgAlt': 'agenda giornaliera f.to 15 x 21',
+            'imgSrc': '../../jmg/immaginiVetrina/AGENDA-2020-giornaliera.jpg', 'imgAlt': 'agenda giornaliera f.to 15 x 21',
             'prezzoVetrina': 'da € 2,90',
-            'titolo': 'Agende giornaliera 2019',
+            'titolo': 'Agende giornaliera 2020',
             'descrizione': 'Agenda giornaliera personalizzata a 1 colore copertina gommata, Sabato e Domenica separati, inserto cartografico'
         },
 

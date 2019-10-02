@@ -125,7 +125,7 @@
                         <div class="col-lg-1">
                             <div class="menuLaterale3">MENU</div>
                             <div class="menuLaterale4"></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">T-shirt Magliette</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Magliette-personalizzate.aspx"style="color:blue;">T-shirt Magliette</a></div>
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Canotte</a></div>
                             <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Polo</a></div>
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Camicie</a></div>
@@ -148,24 +148,24 @@
                             <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Giacche da lavoro</a></div>
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue; font-size: 12px;">Abbigliamento Alta Visibilità</a></div>
                             <div class="menuLaterale4"></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Shopper</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Shopper-personalizzati.aspx"style="color:blue;">Shopper</a></div>
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Sacchetti in carta</a></div>
                             <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Busta per vino</a></div>
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Sacche</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Zaini</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Borse-Zaini-personalizzati.aspx"style="color:blue;">Zaini</a></div>
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Cartelle</a></div>
                             <div class="menuLaterale4"></div>
                             <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Gadget</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Block Notes</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Penne</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Bracciali in silicone</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Block-Notes-personalizzati.aspx"style="color:blue;">Block Notes</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Penne-personalizzate.aspx"style="color:blue;">Penne</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Braccialetti-personalizzati.aspx"style="color:blue;">Bracciali in silicone</a></div>
                             <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Portachiavi</a></div>
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Ombrelli</a></div>
                             <div class="menuLaterale4"></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Calendari</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Agende</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Calendari-2020-personalizzati.aspx"style="color:blue;">Calendari</a></div>
+                            <div class="menuLaterale2"><a href="../Categorie/Agende-2020-personalizzate.aspx"style="color:blue;">Agende</a></div>
                             <div class="menuLaterale4"></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Timbri</a></div>
+                            <div class="menuLaterale1"><a href="../Categorie/Timbri-datari.aspx"style="color:blue;">Timbri</a></div>
                             <div class="menuLaterale4"></div>
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">Video laboratorio</a></div>
                             <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
