@@ -61,7 +61,7 @@
             'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese.jpg', 'imgAlt': 'calendario olandese personalizzato',
             'prezzoVetrina': 'da € 0,650',
-            'titolo': 'Calendario tipo olandese',
+            'titolo': 'Calendario olandese',
             'descrizione': 'Calendario mensile tipo olandese, 12 pagine, F.to cm 29 x 47 cm., Area di stampa: 28 x 8 cm., rossi, blu o verdi'
         },
 
