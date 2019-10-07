@@ -10,6 +10,14 @@
 
     vm.HomePage = [
         {
+            'ahref': '../Categorie/Abbigliamento-da lavoro.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/felpa-full-zip.jpg', 'imgAlt': 'felpa con cappuccio full zip',
+            'prezzoVetrina': 'da € 18',
+            'titolo': 'Felpa cappuccio personalizzata',
+            'descrizione': 'Felpa con cappuccio -  zip lunga - polsini e girovita elasticizzati - 2 tasche a marsupio - ribattitura doppio ago su collo e maniche'
+        },
+
+        {
             'ahref': '../Categorie/magliette-personalizzate.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/maglietta cotone bianca.jpg', 'imgAlt': 'maglietta cotone bianca personalizzata a 1 colore',
             'prezzoVetrina': 'da € 2,30',

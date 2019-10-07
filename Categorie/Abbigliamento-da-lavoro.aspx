@@ -87,6 +87,7 @@
                                 <ul>
                                     <li ng-repeat="x in y.caratteristiche">{{x}}</li>
                                 </ul>
+                                <img src="{{y.imgSrc1}}" />
                             </div>
                             <div class="box3">
                                 <!--<a href=http://calendaritorino.it target=”_blank”>
