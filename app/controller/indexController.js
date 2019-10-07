@@ -10,7 +10,7 @@
 
     vm.HomePage = [
         {
-            'ahref': '../Categorie/Abbigliamento-da lavoro.aspx',
+            'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/felpa-full-zip.jpg', 'imgAlt': 'felpa con cappuccio full zip',
             'prezzoVetrina': 'da € 18',
             'titolo': 'Felpa cappuccio personalizzata',
