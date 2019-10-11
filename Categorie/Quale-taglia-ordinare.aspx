@@ -14,6 +14,7 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <!-- CSS personalizzato-->
     <link href="../css/styleCategorie.css" rel="stylesheet" />
+
 </asp:Content>
 
 <asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder3" runat="Server">
@@ -59,12 +60,121 @@
         <div class="container">
             <div class="container1">
                 <div class="row">
-                    <h1>Quale taglia ordinare per l'abbigliamento da lavoro</h1>
-                    <h3>Come si sceglie la taglia per l'abbigliamento aziendale da lavoro</h3>
+                    <h1>Quale taglia ordinare per l'abbigliamento</h1>
+                    <h3>Come si sceglie la taglia per l'abbigliamento</h3>
                     <p>
                         Puoi ordinare tranquillamente online l'abbigliamento aziendale da lavoro, scegliendo la taglia in
                     base allo schema indicato.In questo modo il tuo acquisto sarà sicuro e niente più resi.
                     </p>
+                </div>
+
+                <div class="table-responsive">
+                    <table class="table table-bordered">
+                        <tbody>
+                            <tr>
+                                <th colspan="10" style="font-size: 20px; color:red">Giubboto sottozero</th>
+                            </tr>
+                            <tr>
+                                <td colspan="5">
+                                    <img src="../jmg/jmgAbbigliamento/giubbotto-da-lavoro.jpg" alt="giubbotto della sottozero blu" /></td>
+                                <td colspan="5">
+                                    <img src="../jmg/jmgTAGLIE/taglia-giubbotto-sottozero.jpg" alt="schema in cm. per la taglia" /></td>
+                            </tr>
+                            <tr style="font-size: 12px">
+                                <th>Misura</th>
+                                <th>XS</th>
+                                <th>S</th>
+                                <th>M</th>
+                                <th>L</th>
+                                <th>XL</th>
+                                <th>XXL</th>
+                                <th>XXXL</th>
+                                <th>XXXXL</th>
+                                <th>XXXXXL</th>
+                            </tr>
+                            <tr style="color: black">
+                                <td><b style="color: red">A</b> cm.</td>
+                                <td>-</td>
+                                <td>35</td>
+                                <td>45</td>
+                                <td>55</td>
+                                <td>65</td>
+                                <td>75</td>
+                                <td>85</td>
+                                <td>95</td>
+                                <td>105</td>
+                            </tr>
+                            <tr style="color: black">
+                                <td><b style="color: red">B</b> cm.</td>
+                                <td>-</td>
+                                <td>35</td>
+                                <td>45</td>
+                                <td>55</td>
+                                <td>65</td>
+                                <td>75</td>
+                                <td>85</td>
+                                <td>95</td>
+                                <td>105</td>
+                            </tr>
+                            <tr>
+                                <td colspan="10" style="font-size: 11px">le dimensioni della taglie possono variare del +/- 3%.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <br />
+                    <table class="table table-bordered">
+                        <tbody>
+                            <tr>
+                                <th colspan="10" style="font-size: 20px; color:red">Magliette</th>
+                            </tr>
+                            <tr>
+                                <td colspan="5">
+                                    <img src="../jmg/jmgAbbigliamento/giubbotto-da-lavoro.jpg" alt="giubbotto della sottozero blu" /></td>
+                                <td colspan="5">
+                                    <img src="../jmg/jmgTAGLIE/taglia-giubbotto-sottozero.jpg" alt="schema in cm. per la taglia" /></td>
+                            </tr>
+                            <tr style="font-size: 12px">
+                                <th>Misura</th>
+                                <th>XS</th>
+                                <th>S</th>
+                                <th>M</th>
+                                <th>L</th>
+                                <th>XL</th>
+                                <th>XXL</th>
+                                <th>XXXL</th>
+                                <th>XXXXL</th>
+                                <th>XXXXXL</th>
+                            </tr>
+                            <tr style="color: black">
+                                <td><b style="color: red">A</b> cm.</td>
+                                <td>-</td>
+                                <td>35</td>
+                                <td>45</td>
+                                <td>55</td>
+                                <td>65</td>
+                                <td>75</td>
+                                <td>85</td>
+                                <td>95</td>
+                                <td>105</td>
+                            </tr>
+                            <tr style="color: black">
+                                <td><b style="color: red">B</b> cm.</td>
+                                <td>-</td>
+                                <td>35</td>
+                                <td>45</td>
+                                <td>55</td>
+                                <td>65</td>
+                                <td>75</td>
+                                <td>85</td>
+                                <td>95</td>
+                                <td>105</td>
+                            </tr>
+                            <tr>
+                                <td colspan="10" style="font-size: 11px">le dimensioni della taglie possono variare del +/- 3%.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
                 </div>
             </div>
         </div>

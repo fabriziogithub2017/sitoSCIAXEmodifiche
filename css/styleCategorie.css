@@ -95,10 +95,33 @@ ul {
     font-size: 12px;
     margin-bottom: 2px;
 }
-    
+
+.table {
+    background-color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+    .table > tbody > tr > th {
+        text-align: center;
+        padding: 1px;
+        border: 2px solid #ddd;
+    }
+
+    .table > tbody > tr > td {
+        padding: 1px;
+        border: 2px solid #ddd;
+    }
+
+        .table > tbody > tr > td img {
+            border: 0;
+            height: 130px;
+            width: 106px;
+        }
 
 @media screen and (max-width: 1199px) {
-
     .buttonCompra {
         margin: 6px 0px 0px 59px;
     }
@@ -147,7 +170,7 @@ ul {
         width: 101%;
         max-height: 106%;
     }
-    
+
     .box2 img {
         height: 49%;
     }
@@ -181,7 +204,7 @@ ul {
     ul {
         font-size: 14px;
     }
-        
+
     .box2 img ul {
         height: 51%;
         margin: 0 0 0 37px;
