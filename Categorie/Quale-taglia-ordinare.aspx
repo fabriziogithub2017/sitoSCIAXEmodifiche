@@ -78,7 +78,7 @@
                                 <td colspan="5">
                                     <img src="../jmg/jmgAbbigliamento/giubbotto-da-lavoro.jpg" alt="giubbotto della sottozero blu" /></td>
                                 <td colspan="5">
-                                    <img src="../jmg/jmgTAGLIE/taglia-giubbotto-sottozero.jpg" alt="schema in cm. per la taglia" /></td>
+                                    <img src="../jmg/jmgTAGLIE/taglia-giubbotto-sottozero.jpg" alt="tabella per la taglia" /></td>
                             </tr>
                             <tr style="font-size: 12px">
                                 <th>Misura</th>
@@ -125,13 +125,13 @@
                     <table class="table table-bordered">
                         <tbody>
                             <tr>
-                                <th colspan="10"><a style="font-size: 20px; color:red" name="_2">Magliette</a></th>
+                                <th colspan="10"><a style="font-size: 20px; color:red" name="_2">Maglietta bianco adulto</a></th>
                             </tr>
                             <tr>
                                 <td colspan="5">
-                                    <img src="../jmg/jmgAbbigliamento/giubbotto-da-lavoro.jpg" alt="giubbotto della sottozero blu" /></td>
+                                    <img src="../jmg/jmgMagliette/magliette-bianche-adulto.jpg" alt="giubbotto della sottozero blu" /></td>
                                 <td colspan="5">
-                                    <img src="../jmg/jmgTAGLIE/taglia-giubbotto-sottozero.jpg" alt="schema in cm. per la taglia" /></td>
+                                    <img src="../jmg/jmgTAGLIE/taglia-maglietta.jpg" alt="tabella per la taglia" /></td>
                             </tr>
                             <tr style="font-size: 12px">
                                 <th>Misura</th>
