@@ -249,6 +249,11 @@ ul {
         margin: -66px 65px 0px 0px;
     }
 
+
+    ul {
+        font-size: 12px;
+    }
+
     .thumbnail {
         height: 580px;
     }

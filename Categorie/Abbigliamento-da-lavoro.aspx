@@ -98,7 +98,7 @@
                                 <br />
                                     clicca e manda Email
                                 </button>
-                                <a href="../Categorie/Quale-taglia-ordinare.aspx">
+                                <a href="../Categorie/Quale-taglia-ordinare.aspx#_2">
                                     <!--target="_blank"-->
                                     <div class="sceglieretaglia">Come scegliere la taglia</div>
                                 </a>

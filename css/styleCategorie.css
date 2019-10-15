@@ -101,7 +101,7 @@ ul {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 600px;
+    width: 780px;
 }
 
     .table > tbody > tr > th {
@@ -120,6 +120,10 @@ ul {
             height: 130px;
             width: 106px;
         }
+
+.container1 {
+    width: 93%;
+}
 
 @media screen and (max-width: 1199px) {
     .buttonCompra {
@@ -148,6 +152,10 @@ ul {
     .box2 img {
         height: 55%;
     }
+
+    .container1 {
+        width: 93%;
+    }
 }
 
 @media screen and (max-width: 991px) /*, (max-width: 630px) and (max-width: 699px) and (min-width: 520px)*/
@@ -173,6 +181,14 @@ ul {
 
     .box2 img {
         height: 49%;
+    }
+
+    .container1 {
+        width: 93%;
+    }
+
+    .table {
+        width: 520px;
     }
 }
 
@@ -209,6 +225,14 @@ ul {
         height: 51%;
         margin: 0 0 0 37px;
     }
+
+    .container1 {
+        width: 93%;
+    }
+
+    .table {
+        width: 400px;
+    }
 }
 
 @media screen and (max-width: 540px) {
@@ -240,43 +264,52 @@ ul {
         height: 48%;
         margin: 0 0 0 0px;
     }
-}
 
-@media screen and (max-width: 400px) {
-
-    .buttonCompra {
-        margin: 6px 0px 0px 97px;
+    .container1 {
+        width: 93%;
     }
 
-    .buttonEmail {
-        width: 91%;
-        height: 50%;
-        margin: 39px 0px 0px 7px;
+    .table {
+        width: 268px;
     }
 
-    .sceglieretaglia {
-        width: 90%;
-        height: 21%;
-        margin: -69px 11px 0px 0px;
-    }
 
-    .thumbnail img {
-        display: block;
-        width: 98%;
-        max-height: 107%;
-        margin: 0px 0px 0px 2px;
-    }
+    @media screen and (max-width: 400px) {
 
-    .thumbnail {
-        height: 454px;
-    }
+        .buttonCompra {
+            margin: 6px 0px 0px 97px;
+        }
 
-    ul {
-        font-size: 11px;
-    }
+        .buttonEmail {
+            width: 91%;
+            height: 50%;
+            margin: 39px 0px 0px 7px;
+        }
 
-    .box2 img {
-        height: 43%;
-        margin: 0 0 0 0px;
+        .sceglieretaglia {
+            width: 90%;
+            height: 21%;
+            margin: -69px 11px 0px 0px;
+        }
+
+        .thumbnail img {
+            display: block;
+            width: 98%;
+            max-height: 107%;
+            margin: 0px 0px 0px 2px;
+        }
+
+        .thumbnail {
+            height: 454px;
+        }
+
+        ul {
+            font-size: 11px;
+        }
+
+        .box2 img {
+            height: 43%;
+            margin: 0 0 0 0px;
+        }
     }
 }

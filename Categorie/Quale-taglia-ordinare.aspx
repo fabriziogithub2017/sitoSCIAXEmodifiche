@@ -72,7 +72,7 @@
                     <table class="table table-bordered">
                         <tbody>
                             <tr>
-                                <th colspan="10" style="font-size: 20px; color:red">Giubboto sottozero</th>
+                                <th colspan="10" style="font-size: 20px; color:red" >Giubboto sottozero</th>
                             </tr>
                             <tr>
                                 <td colspan="5">
@@ -125,7 +125,7 @@
                     <table class="table table-bordered">
                         <tbody>
                             <tr>
-                                <th colspan="10" style="font-size: 20px; color:red">Magliette</th>
+                                <th colspan="10"><a style="font-size: 20px; color:red" name="_2">Magliette</a></th>
                             </tr>
                             <tr>
                                 <td colspan="5">
