@@ -6,7 +6,7 @@
         document.cookie = oggetto;
         //location.href = 'MandaEmail.aspx';
         location.href = '../Categorie/MandaEmail.aspx';
-    }
+    };
 
     init();
 
@@ -31,7 +31,7 @@
     },
 
     {
-        'titolo': 'Giubbotto Sottozero', 'imgSrc': '../../jmg/jmgAbbigliamento/giubbotto-da-lavoro.jpg', 'imgAlt': 'Giubbotto sottozero personalizzato',
+        'titolo': 'Giubbotto super antares edi', 'imgSrc': '../../jmg/jmgAbbigliamento/giubbotto-da-lavoro.jpg', 'imgAlt': 'Giubbotto sottozero personalizzato',
         'caratteristiche': [
             'Tessuto: 65% Cotone, 35% Poliestere',
             'imbottitura: 200 g/m',
@@ -45,7 +45,26 @@
             'DPI 1ª categoria',
             'conforme UNI EN 340'],
         'prezzo': 'da € 25 cad. +iva',
+        'imgSrc1': '../../jmg/jmgAbbigliamento/PREZZI-giubbotto-super-antares-edi.jpg'
     },
+
+    {
+        'titolo': 'Gilet antares edi Sottozero', 'imgSrc': '../../jmg/jmgAbbigliamento/gilet-antares-edi.jpg', 'imgAlt': 'Gilet antares edi sottozero personalizzato',
+        'caratteristiche': [
+            'Tessuto: 65% Cotone, 35% Poliestere',
+            'imbottitura: 200 g/m',
+            'colore: blu - taglie: M - L - XL - XXL - XXXL',
+            'piccole bande riflettenti 3M',
+            'tasca interna',
+            'chiusura con cerniera e pattina con bottoni',
+            '2 tasche con cerniera',
+            '2 tasche con velcro, tasca porta badge',
+            'tasca porta cellulare + taschino porta penne',
+            'DPI 1ª categoria',
+            'conforme UNI EN 340'],
+        'prezzo': 'da € 18 cad. +iva'
+    },
+
     {
         'titolo': 'Pile personalizzato', 'imgSrc': '../../jmg/jmgAbbigliamento/pile-personalizzato-con-ricamo.jpg', 'imgAlt': 'Pile personalizzato con ricamo',
         'caratteristiche': [
@@ -58,7 +77,7 @@
             'DPI 1ª categoria',
             'taglie: XS - S - M - L - XL - XXL - 3XL',
             '30 pile con ricamo altezza cuore inclusa'],
-        'prezzo': 'a € 15 cad. +iva',
+        'prezzo': 'a € 15 cad. +iva'
     },
 
     {
@@ -86,7 +105,7 @@
             '200 bavagli stampati a 1 colore'],
         'prezzo': '200 pz. € 80 +iva',
         'imgSrc1': '../../jmg/jmgAbbigliamento/PREZZIspazioVuoto.jpg'
-    },
-    ]
+    }
+    ];
 
-})
+});
