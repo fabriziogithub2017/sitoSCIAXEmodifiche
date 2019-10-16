@@ -194,6 +194,6 @@
             'descrizione': 'Agendina giornaliera personalizzata a 1 colore, Sabato e Domenica abbinati, chiusura con elastico'
         }
 
-    ]
-    
-})
+    ];
+
+});

@@ -265,14 +265,16 @@ ul {
         margin: 0 0 0 0px;
     }
 
-    .container1 {
-        width: 93%;
-    }
-
     .table {
         width: 268px;
     }
 
+    .container1 {
+        width: 98%;
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+       
 
     @media screen and (max-width: 400px) {
 
@@ -310,6 +312,14 @@ ul {
         .box2 img {
             height: 43%;
             margin: 0 0 0 0px;
+        }
+        .container1 {
+            width: 98%;
+            padding-right: 2px;
+            padding-left: 2px;
+        }
+        Style Attribute {
+            font-size: 10px;
         }
     }
 }

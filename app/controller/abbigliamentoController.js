@@ -15,7 +15,9 @@
     }
 
     vm.categoria = [{
-        'titolo': 'Felpa con cappuccio e zip lunga', 'imgSrc': '../../jmg/jmgAbbigliamento/felpe-zip-lunga-con-cappuccio.jpg', 'imgAlt': 'felpa con cappuccio full zip',
+        'titolo': 'Felpa con cappuccio e zip lunga',
+        'imgSrc': '../../jmg/jmgAbbigliamento/felpe-zip-lunga-con-cappuccio.jpg',
+        'imgAlt': 'felpa con cappuccio full zip',
         'caratteristiche': [
             'tessuto: 65% Cotone, 35% Poliestere, 300 g/m',
             'colore: blu - rosso - grigio - royal',

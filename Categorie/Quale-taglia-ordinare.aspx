@@ -7,9 +7,9 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" runat="Server">
     <!--Main scripts-->
-    <!--<script src="../app/view/assets/lib/angular/angular.min.js"></script>-->
+    <script src="../app/view/assets/lib/angular/angular.min.js"></script>
     <!--Controllers-->
-    <script src="../app/controller/qualeTagliaControlle.js"></script>
+    <script src="../app/controller/qualeTagliaController.js"></script>
 </asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -19,7 +19,8 @@
 </asp:Content>
 
 <asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder3" runat="Server">
-    <body>
+    <body ng-app="myapp" ng-controller="qualeTagliaController as vm">
+
         <ol class="breadcrumb">
             <li><a href="../index.aspx">Home</a></li>
             <li class="active"><b>Quale taglia ordinare per l'abbigliamento da lavoro</b></li>
@@ -70,10 +71,10 @@
                 </div>
 
                 <div class="table-responsive">
-                    <table class="table table-bordered">
-                        <tbody ng-repeat="y in vm.tabella">
+                    <table class="table table-bordered" ng-repeat="y in vm.tabella">
+                        <tbody>
                             <tr>
-                                <th colspan="10" style="font-size: 20px; color:red">{{y.titolo}}</th>
+                                <th colspan="10"><a style="font-size: 20px; color: red" name="{{y.name}}">{{y.titolo}}</a></th>
                             </tr>
                             <tr>
                                 <td colspan="5">
@@ -82,40 +83,15 @@
                                     <img src="{{y.imgSrc2}}" alt="{{y.imgAlt2}}" /></td>
                             </tr>
                             <tr style="font-size: 12px">
-                                <th>Misura</th>
-                                <th>XS</th>
-                                <th>S</th>
-                                <th>M</th>
-                                <th>L</th>
-                                <th>XL</th>
-                                <th>XXL</th>
-                                <th>XXXL</th>
-                                <th>XXXXL</th>
-                                <th>XXXXXL</th>
+                                <th ng-repeat="x in y.taglie">{{x}}</th>
                             </tr>
                             <tr style="color: black">
                                 <td><b style="color: red">A</b> cm.</td>
-                                <td>-</td>
-                                <td>35</td>
-                                <td>45</td>
-                                <td>55</td>
-                                <td>65</td>
-                                <td>75</td>
-                                <td>85</td>
-                                <td>95</td>
-                                <td>105</td>
+                                <td ng-repeat="x in y.misuraTorace">{{x}}</td>
                             </tr>
                             <tr style="color: black">
                                 <td><b style="color: red">B</b> cm.</td>
-                                <td>-</td>
-                                <td>35</td>
-                                <td>45</td>
-                                <td>55</td>
-                                <td>65</td>
-                                <td>75</td>
-                                <td>85</td>
-                                <td>95</td>
-                                <td>105</td>
+                                <td ng-repeat="x in y.misuraAltezza">{{x}}</td>
                             </tr>
                             <tr>
                                 <td colspan="10" style="font-size: 11px">le dimensioni della taglie possono variare del +/- 3%.</td>
@@ -123,59 +99,7 @@
                         </tbody>
                     </table>
                     <br />
-                    <table class="table table-bordered">
-                        <tbody>
-                            <tr>
-                                <th colspan="10"><a style="font-size: 20px; color:red" name="_2">Maglietta bianco adulto</a></th>
-                            </tr>
-                            <tr>
-                                <td colspan="5">
-                                    <img src="../jmg/jmgMagliette/magliette-bianche-adulto.jpg" alt="giubbotto della sottozero blu" /></td>
-                                <td colspan="5">
-                                    <img src="../jmg/jmgTAGLIE/taglia-maglietta.jpg" alt="tabella per la taglia" /></td>
-                            </tr>
-                            <tr style="font-size: 12px">
-                                <th>Misura</th>
-                                <th>XS</th>
-                                <th>S</th>
-                                <th>M</th>
-                                <th>L</th>
-                                <th>XL</th>
-                                <th>XXL</th>
-                                <th>XXXL</th>
-                                <th>XXXXL</th>
-                                <th>XXXXXL</th>
-                            </tr>
-                            <tr style="color: black">
-                                <td><b style="color: red">A</b> cm.</td>
-                                <td>-</td>
-                                <td>35</td>
-                                <td>45</td>
-                                <td>55</td>
-                                <td>65</td>
-                                <td>75</td>
-                                <td>85</td>
-                                <td>95</td>
-                                <td>105</td>
-                            </tr>
-                            <tr style="color: black">
-                                <td><b style="color: red">B</b> cm.</td>
-                                <td>-</td>
-                                <td>35</td>
-                                <td>45</td>
-                                <td>55</td>
-                                <td>65</td>
-                                <td>75</td>
-                                <td>85</td>
-                                <td>95</td>
-                                <td>105</td>
-                            </tr>
-                            <tr>
-                                <td colspan="10" style="font-size: 11px">le dimensioni della taglie possono variare del +/- 3%.</td>
-                            </tr>
-                        </tbody>
-                    </table>
-
+                    
                 </div>
             </div>
         </div>

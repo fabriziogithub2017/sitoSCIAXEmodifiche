@@ -7,7 +7,7 @@
         //location.href = 'MandaEmail.aspx';
         location.href = '../Categorie/MandaEmail.aspx';
 
-    }
+    };
 
     init();
 
@@ -23,17 +23,15 @@
             'Dimensioni:2,6 x 9 x 0,5 cm.',
             'Peso: solo 16 gr'],
         'prezzo': 'da € 1,90 cad. +iva'
-            },
-        {
-            'titolo': 'Portachiavi in metallo', 'imgSrc': '../../jmg/jmgPortachiavi/portachiavi-con-stampa-resinate.jpg', 'imgAlt': 'Portachiavi incisi a laser',
-            'caratteristiche': [
-                'Portachiavi in alluminio e poliestere',
-                'personalizzato a colori resinata ',
-                'Dimensioni:2,6 x 9 x 0,5 cm.',
-                'Peso: solo 16 gr'],
-            'prezzo': 'da € 1,90 cad. +iva'
-        },
-        
-    ]
-
-})
+    },
+    {
+        'titolo': 'Portachiavi in metallo', 'imgSrc': '../../jmg/jmgPortachiavi/portachiavi-con-stampa-resinate.jpg', 'imgAlt': 'Portachiavi incisi a laser',
+        'caratteristiche': [
+            'Portachiavi in alluminio e poliestere',
+            'personalizzato a colori resinata ',
+            'Dimensioni:2,6 x 9 x 0,5 cm.',
+            'Peso: solo 16 gr'],
+        'prezzo': 'da € 1,90 cad. +iva'
+    }
+    ];
+});
