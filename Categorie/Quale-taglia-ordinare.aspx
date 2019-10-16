@@ -9,6 +9,7 @@
     <!--Main scripts-->
     <!--<script src="../app/view/assets/lib/angular/angular.min.js"></script>-->
     <!--Controllers-->
+    <script src="../app/controller/qualeTagliaControlle.js"></script>
 </asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -70,15 +71,15 @@
 
                 <div class="table-responsive">
                     <table class="table table-bordered">
-                        <tbody>
+                        <tbody ng-repeat="y in vm.tabella">
                             <tr>
-                                <th colspan="10" style="font-size: 20px; color:red" >Giubboto sottozero</th>
+                                <th colspan="10" style="font-size: 20px; color:red">{{y.titolo}}</th>
                             </tr>
                             <tr>
                                 <td colspan="5">
-                                    <img src="../jmg/jmgAbbigliamento/giubbotto-da-lavoro.jpg" alt="giubbotto della sottozero blu" /></td>
+                                    <img src="{{y.imgSrc1}}" alt="{{y.imgAlt1}}" /></td>
                                 <td colspan="5">
-                                    <img src="../jmg/jmgTAGLIE/taglia-giubbotto-sottozero.jpg" alt="tabella per la taglia" /></td>
+                                    <img src="{{y.imgSrc2}}" alt="{{y.imgAlt2}}" /></td>
                             </tr>
                             <tr style="font-size: 12px">
                                 <th>Misura</th>
