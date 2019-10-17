@@ -1,8 +1,8 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Calendari-2020-personalizzati.aspx.cs" Inherits="Categorie_Calendari_2020_personalizzati" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>Calendari 2020 personalizzati</title>
-    <meta name="description" content="Calendario stampa, calendario lunare, calendario 2019, calendario illustrato, calendario olandese e calendario trittico.">
+    <title>Calendari 2020</title>
+    <meta name="description" content="Stampa calendari, calendario totò, calendario smorfia napoletana, calendario lunare, calendario 2020, calendario olandese">
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" runat="Server">

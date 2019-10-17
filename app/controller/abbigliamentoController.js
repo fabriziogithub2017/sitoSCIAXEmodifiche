@@ -38,9 +38,9 @@
             'Tessuto: 65% Cotone, 35% Poliestere',
             'imbottitura: 200 g/m',
             'colore: blu - taglie: M - L - XL - XXL - XXXL',
-            'piccole bande riflettenti 3M',
+            'bande riflettenti 3M',
             'tasca interna',
-            'chiusura con cerniera e pattina con bottoni',
+            'chiusura con cerniera e bottoni',
             '2 tasche con cerniera',
             '2 tasche con velcro',
             'tasca porta cellulare + taschino porta penne',
@@ -56,15 +56,16 @@
             'Tessuto: 65% Cotone, 35% Poliestere',
             'imbottitura: 200 g/m',
             'colore: blu - taglie: M - L - XL - XXL - XXXL',
-            'piccole bande riflettenti 3M',
+            'bande riflettenti 3M',
             'tasca interna',
-            'chiusura con cerniera e pattina con bottoni',
+            'chiusura con cerniera e bottoni',
             '2 tasche con cerniera',
             '2 tasche con velcro, tasca porta badge',
             'tasca porta cellulare + taschino porta penne',
             'DPI 1ª categoria',
             'conforme UNI EN 340'],
-        'prezzo': 'da € 18 cad. +iva'
+        'prezzo': 'da € 18 cad. +iva',
+        'imgSrc1': '../../jmg/jmgAbbigliamento/PREZZI-gilet-antares-edi.jpg'
     },
 
     {
