@@ -172,21 +172,7 @@
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
                             <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                        </div>
+                            </div>
                         <div class="col-sm-6 col-lg-3 col-md-6" ng-repeat="y in vm.HomePage">
                             <div class="thumbnail">
                                 <a href="{{y.ahref}}">
