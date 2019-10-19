@@ -84,7 +84,7 @@
         'caratteristiche': [
             'smorfia napoletana totò',
             'personalizzato a 1 colore a scelta',
-            'mensile 12 fogli',
+            'bi-mensile 6 fogli',
             'carta patinata 70 gr.',
             'testata termosaldata',
             'f.to calendario cm 29x47 ca',
@@ -101,7 +101,7 @@
         'caratteristiche': [
             'calendario nudo sexy hot',
             'personalizzato a 1 colore a scelta',
-            'mensile 12 fogli',
+            'bi-mensile 6 fogli',
             'carta patinata 70 gr.',
             'testata termosaldata',
             'f.to calendario cm 29x47 ca',

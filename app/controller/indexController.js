@@ -30,9 +30,9 @@
         {
             'ahref': '../Categorie/Timbri-datari.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/Timbro-autoinchiostrato.jpg',
-            'imgAlt': 'Timbro autoinchiostrato',
+            'imgAlt': 'Timbro tordat',
             'prezzoVetrina': 'da € 13,00',
-            'titolo': 'Timbro autoinchiostrato Trodat 4913',
+            'titolo': 'Timbro autoinchiostrato Trodat',
             'descrizione': 'Timbro autoinchiostrato Trodat 4913, composto da 4/5 righe con tampone nero. A richiesta tampone blu, rosso, verde.'
         },
 
@@ -42,7 +42,16 @@
             'imgAlt': 'gilet antares edi blu',
             'prezzoVetrina': 'da € 18',
             'titolo': 'Gilet antares edi pesante',
-            'descrizione': 'Gilet colore blu, taglie S-M-L-XL-XXL-3XL-4XL, bande riflettenti. Multi tasche. Personalizzabili davanti'
+            'descrizione': 'Gilet colore blu, taglie S-M-L-XL-XXL-3XL-4XL, bande riflettenti. Multi tasche. Ricamo del nome omaggio'
+        },
+
+        {
+            'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/pile-norvegia-sottozero.jpg',
+            'imgAlt': 'pile norvegia sottozero',
+            'prezzoVetrina': 'da € 15',
+            'titolo': 'Pile norvegia sottozero',
+            'descrizione': 'Pile 280 gr., taglie S-M-L-XL-XXL-3XL-4XL, zip lunga, tasche. Ricamo del nome omaggio'
         },
 
         {
@@ -69,7 +78,7 @@
             'imgAlt': 'felpa con cappuccio full zip',
             'prezzoVetrina': 'da € 18',
             'titolo': 'Felpa cappuccio personalizzata',
-            'descrizione': 'Felpa con cappuccio -  zip lunga - polsini e girovita elasticizzati - 2 tasche a marsupio - ribattitura doppio ago su collo e maniche'
+            'descrizione': 'Felpa con cappuccio -  zip lunga - polsini e girovita elasticizzati - 2 tasche a marsupio - Ricamo del nome omaggio'
         },    
 
         {
@@ -83,7 +92,7 @@
 
         {
             'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/gilet-classe2.jpg',
+            'imgSrc': '../../jmg/immaginiVetrina/gilet-gialli.jpg',
             'imgAlt': 'gilet classe 2',
             'prezzoVetrina': 'da € 4,50',
             'titolo': 'Gilet alta visibilità classe 2',
@@ -141,7 +150,7 @@
             'imgAlt': 'giubbotto super antares edi con maniche staccabili',
             'prezzoVetrina': 'da € 25',
             'titolo': 'Giubbotto super antares edi',
-            'descrizione': 'Giubbotto colore blu, taglie S-M-L-XL-XXL-3XL-4XL, bande riflettenti. Multi tasche. Personalizzabili davanti e dietro'
+            'descrizione': 'Giubbotto colore blu, taglie S-M-L-XL-XXL-3XL-4XL, bande riflettenti. Multi tasche. Ricamo del nome omaggio'
         },
 
         {

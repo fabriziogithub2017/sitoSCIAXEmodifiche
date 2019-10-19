@@ -64,7 +64,7 @@
                             <div class="carousel-inner">
                                 <div class="item active ">
                                     <a href="Categorie/Timbri-datari.aspx">
-                                        <img class="slide-image" src="jmg/carouselJmg/timbri.jpg" alt="timbri"></a>
+                                        <img class="slide-image" src="jmg/carouselJmg/timbri.jpg" alt="timbri trodat"></a>
                                     <div class="carousel-caption"></div>
                                 </div>
                                 <div class="item">
