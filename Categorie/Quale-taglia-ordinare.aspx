@@ -70,6 +70,7 @@
                     abbigliamento e stendilo su un tavolo. Dopodichè misura dall'ascella sinistra a quella destra e avrai 
                     la misura in cm. del torace <b style="color: red">A</b>. Misura la lunghezza del capo dalla cucitura
                         della spalla/colletto fino in fondo e avrai la misura in cm. della lunghezza <b style="color: red">B</b>.
+                        In base alle misure ricavate, soprattutto quella di <b style="color: red">A</b>, scegli la taglia corrispondente dell'abbigliamento visto.
                         Tieni presente che le dimensioni indicate potrebbero variare +- del 3%, per margine di tolleranza produttivo.
                        
                     </p>
