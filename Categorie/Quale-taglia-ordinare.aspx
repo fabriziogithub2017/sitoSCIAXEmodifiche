@@ -64,9 +64,14 @@
                 <div class="row">
                     <h1>Quale taglia ordinare per l'abbigliamento</h1>
                     <h3>Come si sceglie la taglia per l'abbigliamento</h3>
-                    <p>
+                    <p class="lead">
                         Puoi ordinare tranquillamente online l'abbigliamento aziendale da lavoro, scegliendo la taglia in
-                    base allo schema indicato.In questo modo il tuo acquisto sarà sicuro e niente più resi.
+                    base allo schema indicato.In questo modo il tuo acquisto sarà sicuro.Come fare: prendi un tuo capo di 
+                    abbigliamento e stendilo su un tavolo. Dopodichè misura dall'ascella sinistra a quella destra e avrai 
+                    la misura in cm. del torace <b style="color: red">A</b>. Misura la lunghezza del capo dalla cucitura
+                        della spalla/colletto fino in fondo e avrai la misura in cm. della lunghezza <b style="color: red">B</b>.
+                        Tieni presente che le dimensioni indicate potrebbero variare +- del 3%, per margine di tolleranza produttivo.
+                       
                     </p>
                 </div>
 
@@ -99,7 +104,7 @@
                         </tbody>
                     </table>
                     <br />
-                    
+
                 </div>
             </div>
         </div>

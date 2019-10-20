@@ -15,6 +15,7 @@
     }
 
     vm.categoria = [{
+        'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_FelpaCappuccioZip',
         'titolo': 'Felpa con cappuccio e zip lunga',
         'imgSrc': '../../jmg/jmgAbbigliamento/felpe-zip-lunga-con-cappuccio.jpg',
         'imgAlt': 'felpa con cappuccio full zip',
@@ -33,7 +34,10 @@
     },
 
     {
-        'titolo': 'Giubbotto super antares edi', 'imgSrc': '../../jmg/jmgAbbigliamento/giubbotto-da-lavoro.jpg', 'imgAlt': 'Giubbotto sottozero personalizzato',
+        'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_GiubbottoSuperAntaresEdi',
+        'titolo': 'Giubbotto super antares edi',
+        'imgSrc': '../../jmg/jmgAbbigliamento/giubbotto-da-lavoro.jpg',
+        'imgAlt': 'Giubbotto sottozero personalizzato',
         'caratteristiche': [
             'Tessuto: 65% Cotone, 35% Poliestere',
             'imbottitura: 200 g/m',
@@ -51,7 +55,10 @@
     },
 
     {
-        'titolo': 'Gilet antares edi Sottozero', 'imgSrc': '../../jmg/jmgAbbigliamento/gilet-antares-edi.jpg', 'imgAlt': 'Gilet antares edi sottozero personalizzato',
+        'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_GiletAntareEdi',
+        'titolo': 'Gilet antares edi Sottozero',
+        'imgSrc': '../../jmg/jmgAbbigliamento/gilet-antares-edi.jpg',
+        'imgAlt': 'Gilet antares edi sottozero personalizzato',
         'caratteristiche': [
             'Tessuto: 65% Cotone, 35% Poliestere',
             'imbottitura: 200 g/m',
@@ -69,7 +76,10 @@
     },
 
     {
-        'titolo': 'Pile personalizzato', 'imgSrc': '../../jmg/jmgAbbigliamento/pile-personalizzato-con-ricamo.jpg', 'imgAlt': 'Pile personalizzato con ricamo',
+        'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_PileNorvegia',
+        'titolo': 'Pile Norvegia',
+        'imgSrc': '../../jmg/jmgAbbigliamento/pile-norvegia-con-ricamo.jpg',
+        'imgAlt': 'Pile personalizzato con ricamo',
         'caratteristiche': [
             'Tessuto: 280 g / m2',
             'colore: blu, nero, grigio, verde, arancio, rosso, royal',
@@ -85,22 +95,27 @@
     },
 
     {
-        'titolo': 'Gilet gialli', 'imgSrc': '../../jmg/jmgAbbigliamento/gilet-gialli.jpg', 'imgAlt': 'Gilet giallo o arancione classe 2 personalizzato',
+        'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_GiletGialli',
+        'titolo': 'Gilet gialli',
+        'imgSrc': '../../jmg/jmgAbbigliamento/gilet-gialli.jpg',
+        'imgAlt': 'Gilet giallo o arancione classe 2 personalizzato',
         'caratteristiche': [
             'Tessuto: 100% Poliestere',
             'colore: arancio o giallo',
-            'taglia: unica',
+            'taglia: unica, chiusura in velcro per regolare la taglia',
             'bande riflettenti 3M Scotchlite',
             'bordo rinforzato',
             'chiusura con velcro',
             'DPI 2ª categoria',
             'conforme omologato EN 471',
-            '50 gilet personalizzati davanti e dietro'],
+            'gilet personalizzati davanti e dietro'],
         'prezzo': 'da € 4,50 cad. +iva',
         'imgSrc1': '../../jmg/jmgAbbigliamento/PREZZI-gilet-gialli.jpg'
     },
     {
-        'titolo': 'Bavaglio usa e getta', 'imgSrc': '../../jmg/jmgAbbigliamento/bavaglio-personalizzato.jpg', 'imgAlt': 'Bavaglio personalizzato',
+        'titolo': 'Bavaglio usa e getta',
+        'imgSrc': '../../jmg/jmgAbbigliamento/bavaglio-personalizzato.jpg',
+        'imgAlt': 'Bavaglio personalizzato',
         'caratteristiche': [
             'Tessuto: 100% Tnt',
             'colore: verde, rosso, blu, bianco, Bordeaux ',
