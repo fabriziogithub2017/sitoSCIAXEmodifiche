@@ -103,7 +103,7 @@
             'Tessuto: 100% Poliestere',
             'colore: arancio o giallo',
             'taglia: unica, chiusura in velcro per regolare la taglia',
-            'bande riflettenti 3M Scotchlite',
+            'bande riflettenti 3M',
             'bordo rinforzato',
             'chiusura con velcro',
             'DPI 2ª categoria',

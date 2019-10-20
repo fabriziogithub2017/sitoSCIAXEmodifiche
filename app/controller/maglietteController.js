@@ -16,6 +16,7 @@
 
     vm.categoria = [
         {
+            'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_MagliettaBiancaAdulto',
             'titolo': 'Magliette bianche adulto', 'imgSrc': '../../jmg/jmgMagliette/magliette-bianche-adulto.jpg', 'imgAlt': 'Magliette bianche unisex per adulto',
             'caratteristiche': [
                 'tessuto: 100% Cotone pettinato, 135 gr.',
@@ -28,6 +29,7 @@
             'imgSrc1': '../../jmg/jmgMagliette/prezzi-MAGLIETTE-bianche.jpg'
         },
         {
+            'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_MagliettaBiancaBimbi',
             'titolo': 'Magliette bianche bambini', 'imgSrc': '../../jmg/jmgMagliette/magliette-bianche-bambini.jpg', 'imgAlt': 'Magliette bianche unisex per bambini',
             'caratteristiche': [
                 'tessuto: 100% Cotone pettinato, 135 gr.',
@@ -40,6 +42,7 @@
             'imgSrc1': '../../jmg/jmgMagliette/prezzi-MAGLIETTE-bianche.jpg'
         },
         {
+            'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_MagliettaColorataAdulto',
             'titolo': 'Magliette colorate adulto', 'imgSrc': '../../jmg/jmgMagliette/magliette-colorate-adulto.jpg', 'imgAlt': 'Magliette bianche unisex per adulto',
             'caratteristiche': [
                 'tessuto: 100% Cotone pettinato, 140 gr.',
@@ -53,6 +56,7 @@
         },
 
         {
+            'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_MagliettaColorataBimbi',
             'titolo': 'Magliette colorate bambini', 'imgSrc': '../../jmg/jmgMagliette/magliette-colorate-bambini.jpg', 'imgAlt': 'Magliette colorate unisex per bambini',
             'caratteristiche': [
                 'tessuto: 100% Cotone pettinato, 140 gr.',
