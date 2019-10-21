@@ -42,19 +42,13 @@
             "@type": "Product",
             "name": "Quale taglia ordinare per l'abbigliamento da lavoro",
             <!--"image": [
-            "https://sciaxe.it/jmg/jmgAbbigliamento/gilet-classe2.jpg",
-            "https://sciaxe.it/jmg/jmgAbbigliamento/giubbotti.jpg",
-            "https://sciaxe.it/jmg/jmgAbbigliamento/giubbotto-softshell.jpg",
-            "https://sciaxe.it/jmg/jmgAbbigliamento/pantalone-da-lavoro.jpg"
+            "https://sciaxe.it/jmg/jmgTaglie/taglia-gilet-antares.jpg",
+            "https://sciaxe.it/jmg/jmgTaglie/taglia-giubbotto-sottozero.jpg",
+            "https://sciaxe.it/jmg/jmgTaglie/taglia-maglietta.jpg"
             ], -->
             "brand": {
             "@type": "Thing",
             "name": "Sciax'è snc"
-            },
-            "offers": {
-            "@type": "Offer",
-            "Price": "5.00",
-            "priceCurrency": "EUR"
             }
             }
         </script>
