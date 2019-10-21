@@ -80,7 +80,7 @@
         'imgSrc2': '../../jmg/jmgTAGLIE/taglia-gilet-antares.jpg',
         'imgAlt2': 'tabella per la taglia per il gilet gialli',
         'taglie': [
-            'Misura unica regolabile con velcro'
+            'Taglia regolabile con velcro'
         ],
         'misuraTorace': [
             '64'],
@@ -129,7 +129,7 @@
         'imgAlt2': 'tabella per la taglia delle magliette dei bambini',
         'taglie': [
             'Misure',
-            'XXXXS 6 anni', 'XXXS 8/10 anni', 'XXS 12 anni ', 'XS 14 anni'],
+            'XXXXS', 'XXXS', 'XXS ', 'XS'],
         'misuraTorace': [
             '39', '42', '45', '48'],
         'misuraAltezza': [
@@ -145,7 +145,7 @@
         'imgAlt2': 'tabella per la taglia delle magliette dei bambini',
         'taglie': [
             'Misure',
-            'XXXXS 6 anni', 'XXXS 8/10 anni', 'XXS 12 anni ', 'XS 14 anni'],
+            'XXXXS', 'XXXS', 'XXS ', 'XS'],
         'misuraTorace': [
             '39', '42', '45', '48'],
         'misuraAltezza': [

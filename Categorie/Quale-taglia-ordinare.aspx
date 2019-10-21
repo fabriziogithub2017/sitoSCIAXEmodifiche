@@ -74,42 +74,49 @@
                         Tieni presente che le dimensioni indicate potrebbero variare +- del 3%, per margine di tolleranza produttivo.                       
                     </p>
                 </div>
-                <div class="row"> Guarda il video dimostativo
-                    https://youtu.be/8O1h7OAo4Wk
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/8O1h7OAo4Wk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="row">Guarda il video dimostativo
+                    <div class="video-container">                        
+                    <p>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/8O1h7OAo4Wk"
+                            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+                        picture-in-picture"
+                            allowfullscreen></iframe>
+                    </p>
                     </div>
-                <div class="table-responsive">
-                    <table class="table table-bordered" ng-repeat="y in vm.tabella">
-                        <tbody>
-                            <tr>
-                                <th colspan="10"><a style="font-size: 20px; color: red" name="{{y.name}}">{{y.titolo}}</a></th>
-                            </tr>
-                            <tr>
-                                <td colspan="5">
-                                    <img src="{{y.imgSrc1}}" alt="{{y.imgAlt1}}" /></td>
-                                <td colspan="5">
-                                    <img src="{{y.imgSrc2}}" alt="{{y.imgAlt2}}" /></td>
-                            </tr>
-                            <tr style="font-size: 12px">
-                                <th ng-repeat="x in y.taglie">{{x}}</th>
-                            </tr>
-                            <tr style="color: black">
-                                <td><b style="color: red">A</b> cm.</td>
-                                <td ng-repeat="x in y.misuraTorace">{{x}}</td>
-                            </tr>
-                            <tr style="color: black">
-                                <td><b style="color: red">B</b> cm.</td>
-                                <td ng-repeat="x in y.misuraAltezza">{{x}}</td>
-                            </tr>
-                            <tr>
-                                <td colspan="10" style="font-size: 11px">le dimensioni della taglie possono variare del +/- 3%.</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <br />
-
                 </div>
             </div>
+            <div class="table-responsive">
+                <table class="table table-bordered" ng-repeat="y in vm.tabella">
+                    <tbody>
+                        <tr>
+                            <th colspan="10"><a style="font-size: 20px; color: red" name="{{y.name}}">{{y.titolo}}</a></th>
+                        </tr>
+                        <tr>
+                            <td colspan="5">
+                                <img src="{{y.imgSrc1}}" alt="{{y.imgAlt1}}" /></td>
+                            <td colspan="5">
+                                <img src="{{y.imgSrc2}}" alt="{{y.imgAlt2}}" /></td>
+                        </tr>
+                        <tr style="font-size: 12px">
+                            <th ng-repeat="x in y.taglie">{{x}}</th>
+                        </tr>
+                        <tr style="color: black">
+                            <td><b style="color: red">A</b> cm.</td>
+                            <td ng-repeat="x in y.misuraTorace">{{x}}</td>
+                        </tr>
+                        <tr style="color: black">
+                            <td><b style="color: red">B</b> cm.</td>
+                            <td ng-repeat="x in y.misuraAltezza">{{x}}</td>
+                        </tr>
+                        <tr>
+                            <td colspan="10" style="font-size: 11px">le dimensioni della taglie possono variare del +/- 3%.</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br />
+
+            </div>
+        </div>
         </div>
 
         <script src="../js/jquery.js"></script>
