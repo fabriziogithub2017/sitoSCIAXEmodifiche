@@ -35,29 +35,6 @@
             }
         </script>
 
-        <!-- Schema.org Product
-        <script type="application/ld+json">
-            {
-            "@context": "http://schema.org/",
-            "@type": "Product",
-            "name": "Quale taglia ordinare per l'abbigliamento da lavoro",
-            <!--"image": [
-            "https://sciaxe.it/jmg/jmgTaglie/taglia-gilet-antares.jpg",
-            "https://sciaxe.it/jmg/jmgTaglie/taglia-giubbotto-sottozero.jpg",
-            "https://sciaxe.it/jmg/jmgTaglie/taglia-maglietta.jpg"
-            ],
-            "brand": {
-            "@type": "Thing",
-            "name": "Sciax'è snc"
-            },
-            "offers": {
-            "@type": "Offer",
-            "Price": "5.00",
-            "priceCurrency": "EUR"
-            }
-            }
-        </script> -->
-
         <div class="container">
             <div class="container1">
                 <div class="row">
