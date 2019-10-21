@@ -71,11 +71,13 @@
                     la misura in cm. del torace <b style="color: red">A</b>. Misura la lunghezza del capo dalla cucitura
                         della spalla/colletto fino in fondo e avrai la misura in cm. della lunghezza <b style="color: red">B</b>.
                         In base alle misure ricavate, soprattutto quella di <b style="color: red">A</b>, scegli la taglia corrispondente dell'abbigliamento visto.
-                        Tieni presente che le dimensioni indicate potrebbero variare +- del 3%, per margine di tolleranza produttivo.
-                       
+                        Tieni presente che le dimensioni indicate potrebbero variare +- del 3%, per margine di tolleranza produttivo.                       
                     </p>
                 </div>
-
+                <div class="row"> Guarda il video dimostativo
+                    https://youtu.be/8O1h7OAo4Wk
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/8O1h7OAo4Wk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
                 <div class="table-responsive">
                     <table class="table table-bordered" ng-repeat="y in vm.tabella">
                         <tbody>
