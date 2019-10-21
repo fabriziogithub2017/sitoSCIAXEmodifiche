@@ -41,7 +41,7 @@
             "@context": "http://schema.org/",
             "@type": "Product",
             "name": "Quale taglia ordinare per l'abbigliamento da lavoro",
-            <!--"image": [
+            "image": [
             "https://sciaxe.it/jmg/jmgTaglie/taglia-gilet-antares.jpg",
             "https://sciaxe.it/jmg/jmgTaglie/taglia-giubbotto-sottozero.jpg",
             "https://sciaxe.it/jmg/jmgTaglie/taglia-maglietta.jpg"
