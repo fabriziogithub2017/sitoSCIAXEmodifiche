@@ -35,30 +35,6 @@
             }
         </script>
 
-        <!-- Schema.org Product -->
-        <script type="application/ld+json">
-            {
-            "@context": "http://schema.org/",
-            "@type": "Product",
-            "name": "Quale taglia ordinare per l'abbigliamento da lavoro",
-            <!--"image": [
-            "https://sciaxe.it/jmg/jmgAbbigliamento/gilet-classe2.jpg",
-            "https://sciaxe.it/jmg/jmgAbbigliamento/giubbotti.jpg",
-            "https://sciaxe.it/jmg/jmgAbbigliamento/giubbotto-softshell.jpg",
-            "https://sciaxe.it/jmg/jmgAbbigliamento/pantalone-da-lavoro.jpg"
-            ], -->
-            "brand": {
-            "@type": "Thing",
-            "name": "Sciax'è snc"
-            },
-            "offers": {
-            "@type": "Offer",
-            "Price": "5.00",
-            "priceCurrency": "EUR"
-            }
-            }
-        </script>
-
         <div class="container">
             <div class="container1">
                 <div class="row">
