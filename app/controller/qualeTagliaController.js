@@ -150,7 +150,22 @@
             '39', '42', '45', '48'],
         'misuraAltezza': [
             '50', '54', '60', '64']
-    }
+        },
+        {
+            'name': '_Bavaglio',
+            'titolo': 'Bavaglio per ristorante',
+            'imgSrc1': '../../jmg/jmgAbbigliamento/bavaglio-personalizzato.jpg',
+            'imgAlt1': 'Bavaglio ristorante',
+            'imgSrc2': '../../jmg/jmgTAGLIE/taglia-bavaglio.jpg',
+            'imgAlt2': 'tabella per la taglia del bvavaglio ristorante',
+            'taglie': [
+                'Misure',
+                'unica'],
+            'misuraTorace': [
+                '35'],
+            'misuraAltezza': [
+                '44']
+        }
 
     ];
 });

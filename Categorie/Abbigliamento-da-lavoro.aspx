@@ -90,7 +90,8 @@
                                 <img src="{{y.imgSrc1}}" />
                             </div>
                             <div class="box3">
-                                <!--<a href=http://calendaritorino.it target=”_blank”>
+                                <!--<a
+                                    href=http://calendaritorino.it target=”_blank”>
                                 <div class="buttonCompra">Compra</div>
                             </a>-->
                                 <button class="buttonEmail" type="button" data-ng-click="vm.cliccamiMail(y.titolo)">

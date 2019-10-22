@@ -3,12 +3,12 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
     <title>Serigrafia e ricamo su abbigliamento, gadget personalizzati con il tuo logo, timbri, sciax'è snc</title>
     <meta name="description" content="Abbigliamento da lavoro personalizzato, antinfortunistica. Gadget personalizzati con il tuo logo. Produzione di timbri e datari. Serigrafia e ricamo in proprio.">
-  </asp:Content>
+</asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <!--Main scripts-->
     <script src="app/view/assets/lib/angular/angular.min.js"></script>
-    <!--Controllers-->   
+    <!--Controllers-->
     <script src="app/controller/indexController.js"></script>
 </asp:Content>
 
@@ -122,7 +122,7 @@
                         </p>
                     </div>
                     <div class="row">
-                        <div class="col-lg-1">
+                        <!--<div class="col-lg-1">
                             <div class="menuLaterale3">MENU</div>
                             <div class="menuLaterale4"></div>
                             <div class="menuLaterale1"><a href="../Categorie/Magliette-personalizzate.aspx"style="color:blue;">T-shirt Magliette</a></div>
@@ -172,7 +172,8 @@
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
                             <div class="menuLaterale1"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
                             <div class="menuLaterale2"><a href="../Categorie/Abbigliamento-da-lavoro.aspx"style="color:blue;">?</a></div>
-                            </div>
+                            </div>-->
+
                         <div class="col-sm-6 col-lg-3 col-md-6" ng-repeat="y in vm.HomePage">
                             <div class="thumbnail">
                                 <a href="{{y.ahref}}">

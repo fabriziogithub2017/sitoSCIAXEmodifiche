@@ -112,7 +112,9 @@
         'prezzo': 'da € 4,50 cad. +iva',
         'imgSrc1': '../../jmg/jmgAbbigliamento/PREZZI-gilet-gialli.jpg'
     },
+
     {
+        'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_Bavaglio',
         'titolo': 'Bavaglio usa e getta',
         'imgSrc': '../../jmg/jmgAbbigliamento/bavaglio-personalizzato.jpg',
         'imgAlt': 'Bavaglio personalizzato',
