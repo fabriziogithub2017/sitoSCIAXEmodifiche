@@ -30,7 +30,7 @@
             "@context": "http://schema.org",
             "@type": "WebPage",
             "breadcrumb": "Home > Quale taglia ordinare per l'abbigliamento da lavoro",
-            "image":"../logo-sciaxe.png",
+            "image":"../jmg/logo-sciaxe.png",
             "name": "logo aziendale sciax'è snc"
             }
         </script>

@@ -28,7 +28,7 @@
             "@context": "http://schema.org",
             "@type": "WebPage",
             "breadcrumb": "Home > Calendari 2019",
-            "image":"../logo-sciaxe.png",
+            "image":"../jmg/logo-sciaxe.png",
             "name": "logo aziendale sciax'è snc"
             }
         </script>

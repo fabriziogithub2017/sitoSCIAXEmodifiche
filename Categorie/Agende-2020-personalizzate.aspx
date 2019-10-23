@@ -30,7 +30,7 @@
             "@context": "http://schema.org",
             "@type": "WebPage",
             "breadcrumb": "Home > Agende 2020",
-            "image":"../logo-sciaxe.png",
+            "image":"../jmg/logo-sciaxe.png",
             "name": "logo aziendale sciax'è snc"
             }
             </script>
@@ -55,6 +55,7 @@
             }
             }
             </script>
+
             <div class="container">
                 <div class="row">
                     <div class="shadow1 col-md-12">
