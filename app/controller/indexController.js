@@ -5,10 +5,18 @@
     init();
 
     function init() {
-        console.log("Initialized");
-    }
+        console.log("Initialized");    }
 
     vm.HomePage = [
+        {
+            'ahref': '../Categorie/Borse-Zaini-personalizzati.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/sacca-a-felpa.gif',
+            'imgAlt': 'zainetti a forma di felpa',
+            'prezzoVetrina': 'da € 12,00',
+            'titolo': 'Sacca a felpa',
+            'descrizione': 'Sacca a forma di felpa grigia, con cerniera e laccetti nei colori blu, rosso , verde, nera. Personalizzata con ricamo'
+        },    
+    
         {
             'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/calendario-toto.jpg',

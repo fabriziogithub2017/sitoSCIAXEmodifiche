@@ -6,7 +6,7 @@
         document.cookie = oggetto;
         //location.href = 'MandaEmail.aspx';
         location.href = '../Categorie/MandaEmail.aspx';
-    // questo è il nuovo master
+        // questo è il nuovo master
     }
 
     init();
@@ -14,35 +14,50 @@
     function init() {
         console.log("Initialized");
     }
-    
-    vm.categoria = [{
-        'titolo': 'Zaino personalizzato', 'imgSrc': '../../jmg/jmgZainiBorse/zaini-personalizzati.jpg', 'imgAlt': 'Zaini personalizzati',
-        'caratteristiche': [
-            'tasca anteriore',
-            'spallacci e retro imbottiti',
-            'misure: cm 26,5 x h 38 x 12 ca',
-            'materiale: 100 % nylon 600D',
-            'stampa a 1 colore su un lato'],
-        'prezzo': 'da € 5,90 cad. +iva'
-    },
-    {
-        'titolo': 'Borsa porta documenti', 'imgSrc': '../../jmg/jmgZainiBorse/cartella-porta-documenti-personalizzata.jpg', 'imgAlt': 'Borsa porta documenti',
-        'caratteristiche': [
-            '1 scomparto',
-            'misure: cm 39x30 ca',
-            'materiale: 100 % nylon 600D',
-            'stampa a 1 colore su un lato'],
-        'prezzo': 'da € 1,60 cad. +iva'
-    },
-    {
-        'titolo': 'Sacca', 'imgSrc': '../../jmg/jmgZainiBorse/sacche-personalizzate.jpg', 'imgAlt': 'Sacche personalizzate a 1 colore',
-        'caratteristiche': [
-            'doppia corda di chiusura',
-            'misura:cm 33x45 ca ',
-            'materiale: 100 % nylon 210D',
-            'stampa a 1 colore su un lato'],
-        'prezzo': 'da € 0,85 cad. +iva'
-    },
+
+    vm.categoria = [
+        {
+            'titolo': 'Sacca a felpa',
+            'imgSrc': '../../jmg/jmgZainiBorse/sacca-a-forma-di-felpa.gif',
+            'imgAlt': 'Sacca a forma di felpa',
+            'caratteristiche': [
+                'colore sacca grigia',
+                'cerniera e lacci dello stesso colore',
+                'colori cerniera e lacci: nero, blu, verde, rosso',
+                'misure: cm 30 x h 42 ca',
+                'materiale: 80% poliestere, 20% cotone',
+                'personalizzato ricamo 1 colore su un lato'],
+            'prezzo': 'da € 12 cad. +iva'
+        },
+
+        {
+            'titolo': 'Zaino personalizzato', 'imgSrc': '../../jmg/jmgZainiBorse/zaini-personalizzati.jpg', 'imgAlt': 'Zaini personalizzati',
+            'caratteristiche': [
+                'tasca anteriore',
+                'spallacci e retro imbottiti',
+                'misure: cm 26,5 x h 38 x 12 ca',
+                'materiale: 100 % nylon 600D',
+                'stampa a 1 colore su un lato'],
+            'prezzo': 'da € 5,90 cad. +iva'
+        },
+        {
+            'titolo': 'Borsa porta documenti', 'imgSrc': '../../jmg/jmgZainiBorse/cartella-porta-documenti-personalizzata.jpg', 'imgAlt': 'Borsa porta documenti',
+            'caratteristiche': [
+                '1 scomparto',
+                'misure: cm 39x30 ca',
+                'materiale: 100 % nylon 600D',
+                'stampa a 1 colore su un lato'],
+            'prezzo': 'da € 1,60 cad. +iva'
+        },
+        {
+            'titolo': 'Sacca', 'imgSrc': '../../jmg/jmgZainiBorse/sacche-personalizzate.jpg', 'imgAlt': 'Sacche personalizzate a 1 colore',
+            'caratteristiche': [
+                'doppia corda di chiusura',
+                'misura:cm 33x45 ca ',
+                'materiale: 100 % nylon 210D',
+                'stampa a 1 colore su un lato'],
+            'prezzo': 'da € 0,85 cad. +iva'
+        }
 
     ]
 
