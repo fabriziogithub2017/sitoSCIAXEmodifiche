@@ -1,8 +1,8 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="index.aspx.cs" Inherits="index" %>
+﻿             <%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="index.aspx.cs" Inherits="index" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>Serigrafia e ricamo su abbigliamento, gadget personalizzati con il tuo logo, timbri, sciax'è snc</title>
-    <meta name="description" content="Abbigliamento da lavoro personalizzato, antinfortunistica. Gadget personalizzati con il tuo logo. Produzione di timbri e datari. Serigrafia e ricamo in proprio.">
+    <title>Barriere protettive para fiato in plexiglass covid 19, Serigrafia e ricamo su abbigliamento, gadget personalizzati con il tuo logo, timbri, sciax'è snc</title>
+    <meta name="description" content="Barriere protettive para fiato in plexiglass covid 19, Abbigliamento da lavoro personalizzato, antinfortunistica. Gadget personalizzati con il tuo logo. Produzione di timbri e datari. Serigrafia e ricamo in proprio.">
 </asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
