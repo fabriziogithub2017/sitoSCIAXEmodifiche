@@ -21,20 +21,9 @@
         'caratteristiche': [
             'Autoinchiostrato da 2 righe € 10 +iva',
             'Autoinchiostrato da 3 righe € 12 +iva',
-            'Autoinchiostrato da 4 righe € 13 +iva',
-            'Autoinchiostrato da 5 righe € 15 +iva',
-            'Autoinchiostrato da 6 righe € 18 +iva',]
-    },
-
-    {
-        'imgSrc': '../../jmg/jmgTimbri/prova buttare timbri.jpg', 'imgAlt': 'Timbri manuali',
-        'titolo': 'Timbri manuali',
-        'caratteristiche': [
-            'Timbro manuale da 2 righe € 4 +iva',
-            'Timbro manuale da 3 righe € 5 +iva',
-            'Timbro manuale da 4 righe € 6 +iva',
-            'Timbro manuale da 5 righe € 10 +iva',
-            'Timbro manuale da 6 righe € 12 +iva',]
+            'Autoinchiostrato da 4 righe € 15 +iva',
+            'Autoinchiostrato da 5 righe € 18 +iva',
+            'Autoinchiostrato da 6 righe € 22 +iva',]
     },
 
     {

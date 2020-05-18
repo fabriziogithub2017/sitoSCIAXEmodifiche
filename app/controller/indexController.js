@@ -83,7 +83,7 @@
             'ahref': '../Categorie/Timbri-datari.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/Timbro-autoinchiostrato.jpg',
             'imgAlt': 'Timbro tordat',
-            'prezzoVetrina': 'da € 13,00',
+            'prezzoVetrina': 'da € 15,00',
             'titolo': 'Timbro autoinchiostrato Trodat',
             'descrizione': 'Timbro autoinchiostrato Trodat 4913, composto da 4/5 righe con tampone nero. A richiesta tampone blu, rosso, verde.'
         },      
