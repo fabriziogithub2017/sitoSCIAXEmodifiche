@@ -79,7 +79,7 @@
                                     <a href="Categorie/Borse-Zaini-personalizzati.aspx">
                                         <img class="slide-image" src="jmg/carouselJmg/zainetto-personalizzato.jpg" alt="zainetti personalizzati"></a>
                                 </div>
-                                <div class="item">
+                                <!--<div class="item">
                                     <a href="Categorie/Abbigliamento-da-lavoro.aspx">
                                         <img class="slide-image" src="jmg/carouselJmg/abbigliamento-invernale.jpg" alt="abbigliamento personalizzato"></a>
                                 </div>
@@ -94,7 +94,7 @@
                                 <div class="item">
                                     <a href="Categorie/Penne-personalizzate.aspx">
                                         <img class="slide-image" src="jmg/carouselJmg/penne-personalizzate.jpg" alt="penne personalizzate"></a>
-                                </div>
+                                </div> -->
                             </div>
                             <!-- frecce scorrimento immagini -->
                             <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
