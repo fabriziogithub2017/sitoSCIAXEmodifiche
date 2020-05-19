@@ -1,4 +1,4 @@
-﻿             <%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="index.aspx.cs" Inherits="index" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="index.aspx.cs" Inherits="index" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
     <title>Barriere protettive para fiato in plexiglass covid 19, Serigrafia e ricamo su abbigliamento, gadget personalizzati con il tuo logo, timbri, sciax'è snc</title>
@@ -64,8 +64,12 @@
                             <div class="carousel-inner">
                                 <div class="item active ">
                                     <a href="Categorie/Timbri-datari.aspx">
-                                        <img class="slide-image" src="jmg/carouselJmg/timbri.jpg" alt="timbri trodat"></a>
+                                        <img class="slide-image" src="jmg/carouselJmg/barriere-protettive-para-fiato.jpg" alt="barriere in plexiglass protettive para fiato"></a>
                                     <div class="carousel-caption"></div>
+                                </div>
+                                <div class="item">
+                                    <a href="Categorie/Timbri-datari.aspx">
+                                        <img class="slide-image" src="jmg/carouselJmg/timbri.jpg" alt="timbri trodat"></a>
                                 </div>
                                 <div class="item">
                                     <a href="Categorie/Shopper-personalizzati.aspx">
