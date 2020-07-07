@@ -59,17 +59,13 @@
                              <li data-target="#carousel-example-generic" data-slide-to="3"></li>
                              <li data-target="#carousel-example-generic" data-slide-to="4"></li>
                              <li data-target="#carousel-example-generic" data-slide-to="5"></li>
-                             <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="6"></li>
                          </ol> -->
-                            <div class="carousel-inner">
+                            <div class="carousel-inner">                                
                                 <div class="item active ">
                                     <a href="Categorie/Timbri-datari.aspx">
-                                        <img class="slide-image" src="jmg/carouselJmg/barriere-protettive-para-fiato.jpg" alt="barriere in plexiglass protettive para fiato"></a>
-                                    <div class="carousel-caption"></div>
-                                </div>
-                                <div class="item">
-                                    <a href="Categorie/Timbri-datari.aspx">
                                         <img class="slide-image" src="jmg/carouselJmg/timbri.jpg" alt="timbri trodat"></a>
+                                    <div class="carousel-caption"></div>
                                 </div>
                                 <div class="item">
                                     <a href="Categorie/Shopper-personalizzati.aspx">
