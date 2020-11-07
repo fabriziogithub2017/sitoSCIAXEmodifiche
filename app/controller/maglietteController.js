@@ -17,6 +17,22 @@
     vm.categoria = [
         {
             'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_MagliettaBiancaAdulto',
+            'titolo': 'Mascherine personalizzate', 'imgSrc': '../../jmg/jmgMagliette/mascherine-personalizzate.jpg', 'imgAlt': 'Mascherine personalizzate con ricamo',
+            'caratteristiche': [
+                'mascherine made in Italy',
+                'prodotto sanificato',
+                'esterno ed interno in 100% cotone popeline',
+                'interno in tnt idrorepellente',
+                'lavabile e riutilizzabile',
+                'elastico morbido regolabile',
+                'cm 24 x 14 ca (larghezza per altezza)',
+                'non e un dispositivo medico/sanitario',
+                'certificati disponibili su richiesta'],
+            'prezzo': 'da € 6 cad. +iva'
+        },
+
+        {
+            'ahref': '../Categorie/Quale-taglia-ordinare.aspx#_MagliettaBiancaAdulto',
             'titolo': 'Magliette bianche adulto', 'imgSrc': '../../jmg/jmgMagliette/magliette-bianche-adulto.jpg', 'imgAlt': 'Magliette bianche unisex per adulto',
             'caratteristiche': [
                 'tessuto: 100% Cotone pettinato, 135 gr.',

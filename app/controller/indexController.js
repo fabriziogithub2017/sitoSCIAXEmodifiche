@@ -10,46 +10,38 @@
     vm.HomePage = [
         {
             'ahref': '../Categorie/magliette-personalizzate.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/maglietta cotone bianca.jpg',
-            'imgAlt': 'maglietta cotone bianca personalizzata a 1 colore',
-            'prezzoVetrina': 'da € 2,30',
-            'titolo': 'Maglietta bianca personalizzata',
-            'descrizione': 'Maglietta bianca adulto / bambino 135 gr. in cotone 100%, girocollo a costina rinforzata, stampa a 1 colore da un lato'
+            'imgSrc': '../../jmg/immaginiVetrina/mascherine-personalizzate.jpg',
+            'imgAlt': 'mascherine personalizzate con ricamo',
+            'prezzoVetrina': 'da € 6,00',
+            'titolo': 'mascherine personalizzate',
+            'descrizione': 'Made in Italy, mascherine lavabili e riutilizzabili, esterno ed interno in 100% cotone, interno in tnt idrorepellente'
         },
 
         {
-            'ahref': '../Categorie/magliette-personalizzate.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/maglietta cotone colorate.jpg',
-            'imgAlt': 'maglietta cotone colorata personalizzata a 1 colore',
-            'prezzoVetrina': 'da € 2,70',
-            'titolo': 'Maglietta colorata personalizzata',
-            'descrizione': 'Adulto / bambino 140 gr. in cotone 100%, 10 colori a scelta, girocollo a costina rinforzata, stampa a 1 colore da un lato'
-        },
+            'ahref': '../Categorie/Timbri-datari.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/Timbro-autoinchiostrato.jpg',
+            'imgAlt': 'Timbro tordat',
+            'prezzoVetrina': 'da € 15,00',
+            'titolo': 'Timbro autoinchiostrato Trodat',
+            'descrizione': 'Timbro autoinchiostrato Trodat 4913, composto da 4/5 righe con tampone nero. A richiesta tampone blu, rosso, verde.'
+        },  
+
         {
-            'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/gilet-antares-edi.jpg',
-            'imgAlt': 'gilet antares edi blu',
-            'prezzoVetrina': 'da € 18',
-            'titolo': 'Gilet antares edi pesante',
-            'descrizione': 'Gilet colore blu, taglie S-M-L-XL-XXL-3XL-4XL, bande riflettenti. Multi tasche. Ricamo del nome omaggio'
+            'ahref': '../Categorie/Calendari-2021-personalizzati.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese-a-colori.jpg',
+            'imgAlt': 'calendario olandese a colori personalizzato',
+            'prezzoVetrina': 'da € 0,70',
+            'titolo': 'Calendario a colori 2021',
+            'descrizione': 'Descrizione: Calendario mensile tipo olandese a colori, 12 pagine, F.to cm 29 x 47 cm., Area di stampa: 28 x 8 cm'
         },
 
         {
-            'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/pile-norvegia-sottozero.jpg',
-            'imgAlt': 'pile norvegia sottozero',
-            'prezzoVetrina': 'da € 15',
-            'titolo': 'Pile norvegia sottozero',
-            'descrizione': 'Pile 280 gr., taglie S-M-L-XL-XXL-3XL-4XL, zip lunga, tasche. Ricamo del nome omaggio'
-        },
-
-        {
-            'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/felpa-full-zip.jpg',
-            'imgAlt': 'felpa con cappuccio full zip',
-            'prezzoVetrina': 'da € 18',
-            'titolo': 'Felpa cappuccio personalizzata',
-            'descrizione': 'Felpa con cappuccio -  zip lunga - polsini e girovita elasticizzati - 2 tasche a marsupio - Ricamo del nome omaggio'
+            'ahref': '../Categorie/Calendari-2021-personalizzati.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese.jpg',
+            'imgAlt': 'calendario olandese personalizzato',
+            'prezzoVetrina': 'da € 0,65',
+            'titolo': 'Calendario olandese 2021',
+            'descrizione': 'Calendario mensile tipo olandese, 12 pagine, F.to cm 29 x 47 cm., Area di stampa: 28 x 8 cm., rossi, blu o verdi'
         },
 
         {
@@ -62,6 +54,33 @@
         },
 
         {
+            'ahref': '../Categorie/Agende-2021-personalizzate.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/notes-a-righe.jpg',
+            'imgAlt': 'notes a rghe f.to 9 x 14',
+            'prezzoVetrina': 'da € 1,50',
+            'titolo': 'Notes a righe',
+            'descrizione': 'Notes a righe personalizzata a 1 colore, chiusura con elastico'
+        },
+
+        {
+            'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/pile-norvegia-sottozero.jpg',
+            'imgAlt': 'pile norvegia sottozero',
+            'prezzoVetrina': 'da € 15',
+            'titolo': 'Pile norvegia sottozero',
+            'descrizione': 'Pile 280 gr., taglie S-M-L-XL-XXL-3XL-4XL, zip lunga, tasche. Ricamo del nome omaggio'
+        },
+
+        {
+            'ahref': '../Categorie/Calendari-2021-personalizzati.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese-slim-a-colori.jpg',
+            'imgAlt': 'calendario olandese a colori slim',
+            'prezzoVetrina': 'da € 0,60',
+            'titolo': 'Calendario olandese slim 2021',
+            'descrizione': 'Calendario mensile tipo olandese a colori, 12 pagine, F.to cm 14 x 47 cm., Area di stampa: 14 x 8 cm'
+        },
+
+        {
             'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/gilet-gialli.jpg',
             'imgAlt': 'gilet classe 2',
@@ -71,22 +90,76 @@
         },
 
         {
+            'ahref': '../Categorie/Agende-2021-personalizzate.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/AGENDA-2020-giornaliera.jpg',
+            'imgAlt': 'agenda giornaliera f.to 15 x 21',
+            'prezzoVetrina': 'da € 2,90',
+            'titolo': 'Agende giornaliera 2021',
+            'descrizione': 'Agenda giornaliera personalizzata a 1 colore copertina gommata, Sabato e Domenica separati, inserto cartografico'
+        },
+
+        {
+            'ahref': '../Categorie/Calendari-2021-personalizzati.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/calendario-da-tavolo-2020.jpg',
+            'imgAlt': 'calendario da tavolo 2021',
+            'prezzoVetrina': 'da € 0,80',
+            'titolo': 'Calendario da tavolo 2021',
+            'descrizione': 'Descrizione: Calendario da tavolo, 13 pagine, F.to cm 16 x 14,5 cm., Area di stampa: 15 x 2,5 cm. fronte e retro'
+        },
+
+        {
+            'ahref': '../Categorie/Agende-2021-personalizzate.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/AGENDINA-giornaliera.jpg',
+            'imgAlt': 'agendina giornaliera f.to 9 x 15',
+            'prezzoVetrina': 'da € 3,50',
+            'titolo': 'Agendina giornaliera 2021',
+            'descrizione': 'Agendina giornaliera personalizzata a 1 colore, Sabato e Domenica abbinati, chiusura con elastico'
+        },
+
+        {
+            'ahref': '../Categorie/Calendari-2021-personalizzati.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/calendario-toto.jpg',
+            'imgAlt': 'calendario totò 2021',
+            'prezzoVetrina': 'da € 0,78',
+            'titolo': 'Calendario totò 2021',
+            'descrizione': 'Calendario bi-mensile, 6 pagine, F.to cm 29 x 47 cm., Area di stampa: 28 x 8 cm., ogni pagina un foto diversa'
+        },        
+
+        {
+            'ahref': '../Categorie/Calendari-2021-personalizzati.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/calendario-sexy.jpg',
+            'imgAlt': 'calendario sexy hot personalizzato',
+            'prezzoVetrina': 'da € 0,78',
+            'titolo': 'Calendario sexy 2021',
+            'descrizione': 'Calendario bi-mensile, 6 pagine, F.to cm 29 x 47 cm., Area di stampa: 28 x 8 cm., ogni pagina un foto diversa'
+        },
+
+        {
+            'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/gilet-antares-edi.jpg',
+            'imgAlt': 'gilet antares edi blu',
+            'prezzoVetrina': 'da € 18',
+            'titolo': 'Gilet antares edi pesante',
+            'descrizione': 'Gilet colore blu, taglie S-M-L-XL-XXL-3XL-4XL, bande riflettenti. Multi tasche. Ricamo del nome omaggio'
+        },
+
+        {
+            'ahref': '../Categorie/Abbigliamento-da-lavoro.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/felpa-full-zip.jpg',
+            'imgAlt': 'felpa con cappuccio full zip',
+            'prezzoVetrina': 'da € 18',
+            'titolo': 'Felpa cappuccio personalizzata',
+            'descrizione': 'Felpa con cappuccio -  zip lunga - polsini e girovita elasticizzati - 2 tasche a marsupio - Ricamo del nome omaggio'
+        },
+
+        {
             'ahref': '../Categorie/Borse-Zaini-personalizzati.aspx',
             'imgSrc': '../../jmg/immaginiVetrina/sacca-a-felpa.gif',
             'imgAlt': 'zainetti a forma di felpa',
             'prezzoVetrina': 'da € 12,00',
             'titolo': 'Sacca a felpa',
             'descrizione': 'Sacca a forma di felpa grigia, con cerniera e laccetti nei colori blu, rosso , verde, nera. Personalizzata con ricamo'
-        },    
-    
-        {
-            'ahref': '../Categorie/Timbri-datari.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/Timbro-autoinchiostrato.jpg',
-            'imgAlt': 'Timbro tordat',
-            'prezzoVetrina': 'da € 15,00',
-            'titolo': 'Timbro autoinchiostrato Trodat',
-            'descrizione': 'Timbro autoinchiostrato Trodat 4913, composto da 4/5 righe con tampone nero. A richiesta tampone blu, rosso, verde.'
-        },      
+        },          
         
         {
             'ahref': '../Categorie/Penne-personalizzate.aspx',
@@ -179,84 +252,21 @@
         },
 
         {
-            'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/calendario-sexy.jpg',
-            'imgAlt': 'calendario sexy hot personalizzato',
-            'prezzoVetrina': 'da € 0,78',
-            'titolo': 'Calendario sexy',
-            'descrizione': 'Calendario bi-mensile, 6 pagine, F.to cm 29 x 47 cm., Area di stampa: 28 x 8 cm., ogni pagina un foto diversa'
+            'ahref': '../Categorie/magliette-personalizzate.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/maglietta cotone bianca.jpg',
+            'imgAlt': 'maglietta cotone bianca personalizzata a 1 colore',
+            'prezzoVetrina': 'da € 2,30',
+            'titolo': 'Maglietta bianca personalizzata',
+            'descrizione': 'Maglietta bianca adulto / bambino 135 gr. in cotone 100%, girocollo a costina rinforzata, stampa a 1 colore da un lato'
         },
 
         {
-            'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese.jpg',
-            'imgAlt': 'calendario olandese personalizzato',
-            'prezzoVetrina': 'da € 0,650',
-            'titolo': 'Calendario olandese',
-            'descrizione': 'Calendario mensile tipo olandese, 12 pagine, F.to cm 29 x 47 cm., Area di stampa: 28 x 8 cm., rossi, blu o verdi'
-        },
-
-        {
-            'ahref': '../Categorie/Agende-2020-personalizzate.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/notes-a-righe.jpg',
-            'imgAlt': 'notes a rghe f.to 9 x 14',
-            'prezzoVetrina': 'da € 1,50',
-            'titolo': 'Notes a righe',
-            'descrizione': 'Notes a righe personalizzata a 1 colore, chiusura con elastico'
-        },
-
-        {
-            'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese-slim-a-colori.jpg',
-            'imgAlt': 'calendario olandese a colori slim',
-            'prezzoVetrina': 'da € 0,60',
-            'titolo': 'Calendario olandese a colori slim',
-            'descrizione': 'Calendario mensile tipo olandese a colori, 12 pagine, F.to cm 14 x 47 cm., Area di stampa: 14 x 8 cm'
-        },
-
-        {
-            'ahref': '../Categorie/Agende-2020-personalizzate.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/AGENDA-2020-giornaliera.jpg',
-            'imgAlt': 'agenda giornaliera f.to 15 x 21',
-            'prezzoVetrina': 'da € 2,90',
-            'titolo': 'Agende giornaliera 2020',
-            'descrizione': 'Agenda giornaliera personalizzata a 1 colore copertina gommata, Sabato e Domenica separati, inserto cartografico'
-        },
-
-        {
-            'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/calendario-da-tavolo-2020.jpg',
-            'imgAlt': 'calendario da tavolo 2019',
-            'prezzoVetrina': 'da € 0,80',
-            'titolo': 'Calendario da tavolo personalizato',
-            'descrizione': 'Descrizione: Calendario da tavolo, 13 pagine, F.to cm 16 x 14,5 cm., Area di stampa: 15 x 2,5 cm. fronte e retro'
-        },
-
-        {
-            'ahref': '../Categorie/Agende-2020-personalizzate.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/AGENDINA-giornaliera.jpg',
-            'imgAlt': 'agendina giornaliera f.to 9 x 15',
-            'prezzoVetrina': 'da € 3,50',
-            'titolo': 'Agendina giornaliera 2019',
-            'descrizione': 'Agendina giornaliera personalizzata a 1 colore, Sabato e Domenica abbinati, chiusura con elastico'
-        },
-
-        {
-            'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/calendario-toto.jpg',
-            'imgAlt': 'calendario totò personalizzato',
-            'prezzoVetrina': 'da € 0,78',
-            'titolo': 'Calendario totò',
-            'descrizione': 'Calendario bi-mensile, 6 pagine, F.to cm 29 x 47 cm., Area di stampa: 28 x 8 cm., ogni pagina un foto diversa'
-        },
-
-        {
-            'ahref': '../Categorie/Calendari-2020-personalizzati.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/calendario-olandese-a-colori.jpg',
-            'imgAlt': 'calendario olandese a colori personalizzato',
-            'prezzoVetrina': 'da € 0,70',
-            'titolo': 'Calendario tipo olandese a colori',
-            'descrizione': 'Descrizione: Calendario mensile tipo olandese a colori, 12 pagine, F.to cm 29 x 47 cm., Area di stampa: 28 x 8 cm'
+            'ahref': '../Categorie/magliette-personalizzate.aspx',
+            'imgSrc': '../../jmg/immaginiVetrina/maglietta cotone colorate.jpg',
+            'imgAlt': 'maglietta cotone colorata personalizzata a 1 colore',
+            'prezzoVetrina': 'da € 2,70',
+            'titolo': 'Maglietta colorata personalizzata',
+            'descrizione': 'Adulto / bambino 140 gr. in cotone 100%, 10 colori a scelta, girocollo a costina rinforzata, stampa a 1 colore da un lato'
         }
         
     ];
