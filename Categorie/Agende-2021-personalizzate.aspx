@@ -23,13 +23,13 @@
             <!-- Breadcrumb e schema.org Web page -->
             <ol class="breadcrumb">
                 <li><a href="../index.aspx">Home</a></li>
-                <li class="active"><b>Agende 2020</b></li>
+                <li class="active"><b>Agende 2021</b></li>
             </ol>
             <script type="application/ld+json">
             {
             "@context": "http://schema.org",
             "@type": "WebPage",
-            "breadcrumb": "Home > Agende 2020",
+            "breadcrumb": "Home > Agende 2021",
             "image":"../jmg/logo-sciaxe.png",
             "name": "logo aziendale sciax'è snc"
             }
@@ -40,7 +40,7 @@
             {
             "@context": "http://schema.org/",
             "@type": "Product",
-            "name": "Agende 2020 personalizzate",
+            "name": "Agende 2021 personalizzate",
             "image": [
             "https://sciaxe.it/jmg/jmgAgende/agenda-2020-giornaliera.jpg"
             ],
@@ -59,7 +59,7 @@
             <div class="container">
                 <div class="row">
                     <div class="shadow1 col-md-12">
-                        <h1>Agende 2020 personalizzate</h1>
+                        <h1>Agende 2021 personalizzate</h1>
                         <p class="lead">
                             Scrivere appunti e appuntamenti, si dimentica più facilmente quando ci si affida al digitale. Smartphone, Iphone e le loro applicazioni non potranno mai sostituire l'agenda 2020 che si può trovare giornaliera, settimanale, planing in tanti colori e materiali.
                         </p>
