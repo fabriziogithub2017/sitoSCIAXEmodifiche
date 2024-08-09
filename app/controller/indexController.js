@@ -134,15 +134,7 @@
             'titolo': 'Braccialetti in silicone',
             'descrizione': 'Braccialetti in silicone a più colori, personalizzati con incisione con lo stesso colore del braccialetto'
         },
-
-        {
-            'ahref': '../Categorie/magliette-personalizzate.aspx',
-            'imgSrc': '../../jmg/immaginiVetrina/mascherine-personalizzate.jpg',
-            'imgAlt': 'mascherine personalizzate con ricamo',
-            'prezzoVetrina': 'da € 6,00',
-            'titolo': 'mascherine personalizzate',
-            'descrizione': 'Made in Italy, mascherine lavabili e riutilizzabili, esterno ed interno in 100% cotone, interno in tnt idrorepellente'
-        },
+             
 
         {
             'ahref': '../Categorie/Timbri-datari.aspx',
